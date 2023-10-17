@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/swarnabha_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swarnabha_h" height="50" width="60" /></a>
-<a href="https://linkedin.com/in/swarnabha-halder-627692254" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="swarnabha-halder-627692254" height="30" width="40" /></a>
+<a href="https://twitter.com/swarnabha_h" target="blank"><img align="center" <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/twitter-circled.png" alt="twitter-circled"/></a>
+<a href="https://linkedin.com/in/swarnabha-halder-627692254" target="blank"><img align="center" <img width="80" height="80" src="https://img.icons8.com/3d-fluency/80/linkedin.png" alt="linkedin"/></a>
 <a href="https://instagram.com/swarnabha_halder" target="blank"><img align="center" <img width="80" height="80" src="https://img.icons8.com/3d-fluency/990/instagram-new.png" alt="instagram-new"/> </a>
 <a href="https://codeforces.com/profile/swarnabha_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="swarnabha_dev" height="30" width="40" /></a>
 </p>
