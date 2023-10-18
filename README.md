@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Swarnabha Halder</h1>
 <h3 align="center">"A passionate coder crafting elegant software solutions, one line at a time, on a journey through endless possibilities."</h3>
-<div style="padding-top:73.788%;position:relative;"><iframe src="https://gifer.com/embed/3Eqa" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com"></a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnabha-dev&label=Profile%20views&color=blueviolet&style=plastic" alt="swarnabha-dev" /> </p>
 
