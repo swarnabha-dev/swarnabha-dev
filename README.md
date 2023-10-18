@@ -1,7 +1,8 @@
 [![An image of @swarnabhadev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swarnabhadev)](https://holopin.io/@swarnabhadev)
-![](https://github.com/swarnabha-dev/swarnabha-dev/blob/main/Icons/instagram.svg)
+
 <h1 align="center">Hi 👋, I'm Swarnabha Halder</h1>
 <h3 align="center">"A passionate coder crafting elegant software solutions, one line at a time, on a journey through endless possibilities."</h3>
+<img allign="right" alt="gif" width="400" src="https://i.gifer.com/3Eqa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnabha-dev&label=Profile%20views&color=blueviolet&style=plastic" alt="swarnabha-dev" /> </p>
 
