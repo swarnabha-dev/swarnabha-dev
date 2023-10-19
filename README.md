@@ -31,11 +31,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/swarnabha_h" target="blank"><img align="center" <img width="85" height="85" src="https://user-images.githubusercontent.com/111165060/276103942-f9c19dfc-2d40-4ae3-b1b2-86925ed73c64.png"/></a>
-<a href="https://discordapp.com/users/777243768884559902" target="blank"><img align="center" <img width="75" height="75" src="https://user-images.githubusercontent.com/111165060/276134037-f011622f-758f-4cb7-adc4-11e1c3498744.png"/></a>
-<a href="https://linkedin.com/in/swarnabha-halder-627692254" target="blank"><img align="center" <img width="80" height="80" src="https://img.icons8.com/3d-fluency/80/linkedin.png" alt="linkedin"/></a>
-<a href="https://instagram.com/swarnabha_halder" target="blank"><img align="center" <img width="80" height="80" src="https://img.icons8.com/3d-fluency/990/instagram-new.png" alt="instagram-new"/> </a>
-<a href="https://codeforces.com/profile/swarnabha_dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111165060/276094718-1bf64938-51b7-4b8e-8658-22ebed0a59c1.png" alt="swarnabha_dev" height="75" width="65" /></a>
+<a href="https://twitter.com/swarnabha_h" target="blank"> <img width="85" height="85" src="https://user-images.githubusercontent.com/111165060/276103942-f9c19dfc-2d40-4ae3-b1b2-86925ed73c64.png"/></a>
+<a href="https://discordapp.com/users/777243768884559902" target="blank"> <img width="75" height="75" src="https://user-images.githubusercontent.com/111165060/276134037-f011622f-758f-4cb7-adc4-11e1c3498744.png"/></a>
+<a href="https://linkedin.com/in/swarnabha-halder-627692254" target="blank"><img width="80" height="80" src="https://user-images.githubusercontent.com/111165060/276513655-02fbdb45-5574-491c-92d7-1a848539318c.png" alt="linkedin"/></a>
+<a href="https://instagram.com/swarnabha_halder" target="blank"> <img width="80" height="80" src="https://img.icons8.com/3d-fluency/990/instagram-new.png" alt="instagram-new"/> </a>
+<a href="https://codeforces.com/profile/swarnabha_dev" target="blank"><img  src="https://user-images.githubusercontent.com/111165060/276094718-1bf64938-51b7-4b8e-8658-22ebed0a59c1.png" alt="swarnabha_dev" height="75" width="65" /></a>
 </p>
 
 ---
