@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Swarnabha Halder</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="35" width="35"> ,I'm Swarnabha Halder</h1>
 <h3 align="center">"A passionate coder crafting elegant software solutions, one line at a time, on a journey through endless possibilities."</h3>
 </div>
 <div align="center">
