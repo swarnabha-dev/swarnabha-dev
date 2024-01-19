@@ -51,6 +51,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabha-dev&theme=radical" alt="swarnabha-dev" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dev&theme=radical" alt="swarnabha-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dev&theme=radical&no-bg=true" alt="swarnabha-dev" /></a> </p>
 
 ---
