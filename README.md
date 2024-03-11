@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently styding **B.Tech CSE**
 
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 I’m currently learning **Python, Django, Flask**
 
 - 📫 How to reach me **Swarnabha@3602sv.onmicrosoft.com**
 
