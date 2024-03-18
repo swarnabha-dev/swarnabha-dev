@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/swarnabha_h" target="blank"> <img width="85" height="85" src="https://user-images.githubusercontent.com/111165060/276103942-f9c19dfc-2d40-4ae3-b1b2-86925ed73c64.png"/></a>
+<a href="https://twitter.com/swarnabha_h" target="blank"> <img width="85" height="85" src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/db17e3cc-01c2-40cd-b78d-eb66809f8eb5"/></a>
 <a href="https://discordapp.com/users/777243768884559902" target="blank"> <img width="75" height="75" src="https://user-images.githubusercontent.com/111165060/276134037-f011622f-758f-4cb7-adc4-11e1c3498744.png"/></a>
 <a href="https://linkedin.com/in/swarnabha-halder-627692254" target="blank"><img width="80" height="80" src="https://user-images.githubusercontent.com/111165060/276513655-02fbdb45-5574-491c-92d7-1a848539318c.png" alt="linkedin"/></a>
 <a href="https://instagram.com/swarnabha_halder" target="blank"> <img width="85" height="85" src="https://img.icons8.com/3d-fluency/990/instagram-new.png" alt="instagram-new"/> </a>
