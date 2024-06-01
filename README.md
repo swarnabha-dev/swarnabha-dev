@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=swarnabha-dev&show_icons=true&count_private=true&&locale=en&theme=radical">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=swarnabha-dev&show_icons=true&count_private=true&&locale=en&theme=radical&hide_border=true">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabha-dev&layout=compact&hide_border=true&show_icons=true&locale=en&theme=radical">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=swarnabha-dev&theme=radical&hide_border=true">
   <br>
@@ -58,6 +58,6 @@
 
 ---
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dev&theme=radical&no-bg=true&row=1" alt="swarnabha-dev" /></a> </p>
+<p allign="centre"> <img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dev&theme=radical&no-bg=true&row=1" alt="swarnabha-dev" /></a> </p>
 
 ---
