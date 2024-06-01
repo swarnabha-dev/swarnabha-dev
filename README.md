@@ -48,12 +48,16 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnabha-dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="swarnabha-dev" /></p>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=swarnabha-dev&show_icons=true&count_private=true&&locale=en&theme=radical">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabha-dev&layout=compact&hide_border=true&show_icons=true&locale=en&theme=radical">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=swarnabha-dev&theme=radical&hide_border=true">
+  <br>
+  <br>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarnabha-dev&show_icons=true&locale=en&theme=radical" alt="swarnabha-dev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabha-dev&theme=radical" alt="swarnabha-dev" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dev&theme=radical&no-bg=true" alt="swarnabha-dev" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dev&theme=radical&no-bg=true" alt="swarnabha-dev" /></a> </p>
 
 ---
