@@ -58,6 +58,6 @@
 
 ---
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dev&theme=radical&no-bg=true" alt="swarnabha-dev" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dev&theme=radical&no-bg=true&row=1" alt="swarnabha-dev" /></a> </p>
 
 ---
