@@ -54,7 +54,7 @@ During Hacktoberfest 2023, I had the privilege of contributing to the [fsociety]
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=swarnabha-dev&show_icons=true&count_private=true&&locale=en&theme=radical&hide_border=true">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabha-dev&layout=compact&hide_border=true&show_icons=true&locale=en&theme=radical">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=swarnabha-dev&theme=radical&hide_border=true">
+  <img src ="https://streak-stats.demolab.com/?user=swarnabha-dev&theme=radical&hide_border=true">
   <br>
   <br>
 </p>
