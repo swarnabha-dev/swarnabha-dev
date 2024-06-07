@@ -6,7 +6,7 @@
 </div>
 <br>
 <div allign="right">
-I’m a passionate and driven B.Tech student specializing in Computer Science and Engineering (CSE) at Sikkim Manipal Institute of Technology. With a keen interest in cutting-edge technology and software development, I thrive on transforming ideas into innovative and efficient solutions. 
+I’m a tech driven B.Tech student specializing in Computer Science and Engineering (CSE) at Sikkim Manipal Institute of Technology. With a keen interest in cutting-edge technology and software development, I thrive on transforming ideas into innovative and efficient solutions. 
 <br>My GitHub profile showcases a diverse range of projects that reflect my commitment to learning, growing, and contributing to the tech community. Whether it's machine learning, or data science, I'm always excited to tackle new challenges and expand my skill set. Dive into my repositories to see the world through my code!</div><br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=swarnabha-dev&label=Profile%20views&color=blueviolet&style=plastic" alt="swarnabha-dev"/>
