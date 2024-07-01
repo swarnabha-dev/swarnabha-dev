@@ -18,7 +18,25 @@ I’m a tech driven B.Tech student specializing in Computer Science and Engineer
 
 -   **Education**: Pursuing a Bachelor of Technology in Computer Science and Engineering from Sikkim Manipal Institute of Technology.
 -   **Courses**: Immersed in various subjects including Algorithms, Data Structures, Database Management, Machine Learning, and Artificial Intelligence.
-- I’m currently learning **Data Science**
+- I’m currently learning
+  -   Advanced techniques in machine learning and AI.
+  -   Cutting-edge tools and frameworks for data analysis and visualization.
+---
+
+🔭 I’m currently working on:
+- Data Science projects involving machine learning, data visualization, and big data technologies.
+---
+👯 I’m looking to collaborate on:
+- Open-source data science projects.
+- Research initiatives in machine learning and AI.
+
+---
+
+💬 Ask me about:
+- Data analysis and visualization.
+- Python programming and libraries like Pandas, NumPy, and Matplotlib.
+- Machine learning algorithms and applications.
+
 ---
 
 <h3 align="left"> Tech Stack:</h3>
@@ -47,7 +65,7 @@ During Hacktoberfest 2023, I had the privilege of contributing to the [fsociety]
 
 - 📫 You can also reach me **Swarnabha@3602sv.onmicrosoft.com**
 
-**Let's code, connect, and create awesome things together!**
+**Let's connect and explore the exciting world of data science together! 🚀**
 
 ---
 
