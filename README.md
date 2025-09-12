@@ -1,13 +1,27 @@
 <h1 align="center">&lt; Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="25" width="35"> ,I'm Swarnabha Halder /&gt;</h1>
-<h3 align="center">"A passionate coder crafting elegant software solutions, one line at a time, on a journey through endless possibilities."</h3>
+<div align="center">
+
+✨━━━━━━━━━━━━━✨  
+⚕️ **Medical Image Registration**  
+🔒 **Secure FastAPI Analytics**  
+🛰️ **Planetary Material Prediction**  
+💹 **Financial Market Modeling**  
+✨━━━━━━━━━━━━━✨  
+
+**Building modular, scalable, and production-ready systems across research and engineering.**  
+
+</div>
+
 </div>
 <div align="center" >
   <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="300" style="border-radius: 70px" />
 </div>
 <br>
-<div allign="right">
-I’m a tech driven B.Tech student specializing in Computer Science and Engineering (CSE) at Sikkim Manipal Institute of Technology. With a keen interest in cutting-edge technology and software development, I thrive on transforming ideas into innovative and efficient solutions. 
-<br>My GitHub profile showcases a diverse range of projects that reflect my commitment to learning, growing, and contributing to the tech community. Whether it's machine learning, or data science, I'm always excited to tackle new challenges and expand my skill set. Dive into my repositories to see the world through my code!</div><br>
+
+### About Me  
+
+I am an engineer and researcher working on **medical image registration**, **secure FastAPI-based analytics systems**, **planetary material prediction**, and **financial market modeling**. I focus on building **modular, scalable, and production-ready solutions** that bridge research and engineering.  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=swarnabha-dev&label=Profile%20views&color=blueviolet&style=plastic" alt="swarnabha-dev"/>
 </div>
@@ -17,24 +31,25 @@ I’m a tech driven B.Tech student specializing in Computer Science and Engineer
 #### 🌱 Learning and Growing
 
 -   **Education**: Pursuing a Bachelor of Technology in Computer Science and Engineering from Sikkim Manipal Institute of Technology.
--   **Courses**: Immersed in various subjects including Algorithms, Data Structures, Database Management, Machine Learning, and Artificial Intelligence.
+-   **Courses**: Immersed in various subjects including Data Science, Data Analytics, Artificial Intelligence, Deep Learning, Database Management, Machine Learning, Networking & Security .
 - I’m currently learning
-  -   Advanced techniques in machine learning and AI.
-  -   Cutting-edge tools and frameworks for data analysis and visualization.
+  -   Advanced techniques Data Science and AI.
+  -   Cutting-edge tools and frameworks for Deep Learning.
 ---
 
 🔭 I’m currently working on:
-- Data Science projects involving machine learning, data visualization, and big data technologies.
+- Data Science projects involving machine learning, data visualization, big data technologies and deep learning.
+- Backend Developments and Api Development with current fastest responsing with async feature - FastApi
 ---
 👯 I’m looking to collaborate on:
 - Open-source data science projects.
-- Research initiatives in machine learning and AI.
+- Research initiatives in deep learning and AI.
 
 ---
 
 💬 Ask me about:
-- Data analysis and visualization.
-- Python programming and libraries like Pandas, NumPy, and Matplotlib.
+- Data Science, Data analysis and visualization.
+- Backend Development.
 - Machine learning algorithms and applications.
 
 ---
@@ -45,7 +60,8 @@ I’m a tech driven B.Tech student specializing in Computer Science and Engineer
 
 ---
 ### Open Source Initiatives
-During Hacktoberfest 2023, I had the privilege of contributing to the [fsociety](https://github.com/gdscsmit/fsociety). This experience not only allowed me to enhance my coding skills but also to collaborate with a community of developers dedicated to open source innovation.
+During Hacktoberfest 2023, I had the privilege of contributing to the [fsociety](https://github.com/gdscsmit/fsociety). This experience not only allowed me to enhance my coding skills but also to collaborate with a community of developers dedicated to open source innovation.<br>
+Particpated in Hacktoberfest 2024 and collaborated with many repos and learned so many new techs & frameworks currently popular around this open source community.
 
 ---
 #### 🚀 Future Goals
@@ -53,6 +69,7 @@ During Hacktoberfest 2023, I had the privilege of contributing to the [fsociety]
 -   **Master New Technologies**: Constantly exploring new technologies and frameworks to stay updated in this fast-evolving field.
 -   **Contribute to Open Source**: Aim to contribute more actively to open-source projects and collaborate with other developers.
 -   **Expand My Knowledge in AI and ML**: Deepen my understanding and practical skills in artificial intelligence and machine learning.
+-   **Getting strong hold on Data Science**: I want to have deep understanding on data and the algorithms working on it.
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,7 +80,18 @@ During Hacktoberfest 2023, I had the privilege of contributing to the [fsociety]
 <a href="https://codeforces.com/profile/swarnabha_dev" target="blank"><img  src="https://user-images.githubusercontent.com/111165060/276094718-1bf64938-51b7-4b8e-8658-22ebed0a59c1.png" alt="swarnabha_dev" height="75" width="65" /> </a> <a href="https://www.facebook.com/profile.php?id=100087553680083" target="blank"> <img width="85" height="85" src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/d477c451-767d-4092-b1c4-065ada5660d3"/></a>
 </p>
 
-- 📫 You can also reach me **Swarnabha@3602sv.onmicrosoft.com**
+- 📫 You can also reach me **[swarnabha@swarnabha.tech](mailto:swarnabha@swarnabha.tech)** <br>
+
+
+
+   
+<p align="center">
+  <a href="https://swarnabha.tech/" target="_blank">
+    <img width="60" height="60" alt="briefcase" src="https://github.com/user-attachments/assets/6a14909a-af7e-44c4-8c5a-686dfb4662fd" /><br>  
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
+</p>
+
 
 **Let's connect and explore the exciting world of data science together! 🚀**
 
