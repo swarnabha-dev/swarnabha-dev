@@ -1,122 +1,184 @@
-<h1 align="center">&lt; Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="25" width="35"> ,I'm Swarnabha Halder /&gt;</h1>
+<h1 align="center">
+  &lt; Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="25" width="35"> I'm Swarnabha Halder /&gt;
+</h1>
+
+<h3 align="center">Engineer • Researcher • System Architect</h3>
+
 <div align="center">
 
-✨━━━━━━━━━━━━━✨  
-⚕️ **Medical Image Registration**  
-🔒 **Secure FastAPI Analytics**  
-🛰️ **Planetary Material Prediction**  
-💹 **Financial Market Modeling**  
-✨━━━━━━━━━━━━━✨  
+✨━━━━━━━━━━━━━━━━━━━━━━━✨  
+⚕️ Medical Image Registration  
+🔒 Secure FastAPI Analytics Systems  
+🛰️ Planetary Material Prediction  
+💹 Financial Market Modeling  
+✨━━━━━━━━━━━━━━━━━━━━━━━✨  
 
-**Building modular, scalable, and production-ready systems across research and engineering.**  
-
-</div>
+<b>Building modular, scalable, research-driven & production-grade systems.</b>
 
 </div>
-<div align="center" >
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="300" style="border-radius: 70px" />
-</div>
+
 <br>
 
-### About Me  
+<div align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="320" style="border-radius: 60px" />
+</div>
 
-I am an engineer and researcher working on **medical image registration**, **secure FastAPI-based analytics systems**, **planetary material prediction**, and **financial market modeling**. I focus on building **modular, scalable, and production-ready solutions** that bridge research and engineering.  
+<br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=swarnabha-dev&label=Profile%20views&color=blueviolet&style=plastic" alt="swarnabha-dev"/>
+<img src="https://komarev.com/ghpvc/?username=swarnabha-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </div>
 
 ---
 
-#### 🌱 Learning and Growing
+# 🚀 About Me
 
--   **Education**: Pursuing a Bachelor of Technology in Computer Science and Engineering from Sikkim Manipal Institute of Technology.
--   **Courses**: Immersed in various subjects including Data Science, Data Analytics, Artificial Intelligence, Deep Learning, Database Management, Machine Learning, Networking & Security .
-- I’m currently learning
-  -   Advanced techniques Data Science and AI.
-  -   Cutting-edge tools and frameworks for Deep Learning.
----
+I am a Computer Science engineer focused on **advanced research engineering and production system design**.
 
-🔭 I’m currently working on:
-- Data Science projects involving machine learning, data visualization, big data technologies and deep learning.
-- Backend Developments and Api Development with current fastest responsing with async feature - FastApi
----
-👯 I’m looking to collaborate on:
-- Open-source data science projects.
-- Research initiatives in deep learning and AI.
+My work integrates:
+
+- **Deformable Medical Image Registration**
+- **Secure, High-Performance FastAPI Architectures**
+- **AI-Driven Scientific Modeling**
+- **Quantitative Financial Systems**
+
+I specialize in building **modular pipelines**, **scalable backends**, and **mathematically grounded ML systems** that transition smoothly from research prototypes to deployable products.
 
 ---
 
-💬 Ask me about:
-- Data Science, Data analysis and visualization.
-- Backend Development.
-- Machine learning algorithms and applications.
+# 🎓 Education
+
+**Bachelor of Technology (B.Tech)**  
+Computer Science & Engineering  
+Sikkim Manipal Institute of Technology
+
+### Core Academic Focus
+- Data Science & Analytics  
+- Artificial Intelligence  
+- Deep Learning  
+- Machine Learning  
+- Database Systems  
+- Networking & Security  
 
 ---
 
-<h3 align="left"> Tech Stack:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img width="90" height="90" src="https://user-images.githubusercontent.com/111165060/276516194-cebe0676-dc12-4879-b878-f519c2f06506.png" alt="bash"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/111165060/276103986-c2cf6064-3e14-45f0-a81e-cf5641de84b0.png" alt="cplusplus" width="80" height="80"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/111165060/276099780-9e79cdea-e96c-4ca8-888e-8378a3d888a7.png" alt="docker" width="100" height="100"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/111165060/276103971-89a03f7c-47fb-4d91-bff1-4c820ffa6732.png" alt="git" width="70" height="70"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/111165060/276103963-92ede731-094a-4c9c-b807-2e2001fb7c79.png" alt="linux" width="80" height="80"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img width="80" height="80" src="https://user-images.githubusercontent.com/111165060/276103999-dc36f10c-3adc-4da3-801a-2cffd9eadbb3.png" alt="adobe-photoshop"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/f96348bf-2ab3-433f-ae09-a2326c71b4da" width="80" height="80"/>  <a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/111165060/276205660-82dd40cf-9638-4b0c-8305-9aa4020cb08e.jpg" alt="gcp" width="85" height="85"/> </a> <a href="https://www.canva.com/en_in/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/111165060/276859141-78e2bcd6-5817-4c02-86c3-bcd9be931cb1.png" alt="gcp" width="85" height="85"/> </a> <a herf="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/b8ecdc47-e7b4-4664-88d8-3ce958b82dc0" alt="java" width="85" height="85"/> </a> <a herf="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/69e87f41-873e-4cd4-bfc9-1b6bf902fd6b" alt="Django" width="85" height="85"/> </a> <a herf="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <a> <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank" rel="noreferrer"> <img src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/28625cac-9cb3-4679-8ff1-ce0de9c3d39a" width="85" height="85"/> </a> 
-</p>
+# 🔬 Currently Working On
+
+- Advanced ML & Deep Learning pipelines  
+- Research-driven Data Science projects  
+- High-performance async backend systems using **FastAPI**  
+- Production-ready API architecture design  
 
 ---
-### Open Source Initiatives
-During Hacktoberfest 2023, I had the privilege of contributing to the [fsociety](https://github.com/gdscsmit/fsociety). This experience not only allowed me to enhance my coding skills but also to collaborate with a community of developers dedicated to open source innovation.<br>
-Particpated in Hacktoberfest 2024 and collaborated with many repos and learned so many new techs & frameworks currently popular around this open source community.
+
+# 🤝 Open to Collaborate On
+
+- Research in AI & Deep Learning  
+- Open-source ML systems  
+- Backend engineering projects  
+- Scientific computing systems  
 
 ---
-#### 🚀 Future Goals
 
--   **Master New Technologies**: Constantly exploring new technologies and frameworks to stay updated in this fast-evolving field.
--   **Contribute to Open Source**: Aim to contribute more actively to open-source projects and collaborate with other developers.
--   **Expand My Knowledge in AI and ML**: Deepen my understanding and practical skills in artificial intelligence and machine learning.
--   **Getting strong hold on Data Science**: I want to have deep understanding on data and the algorithms working on it.
+# 💬 Ask Me About
+
+- Data Science & Analytics  
+- Machine Learning Algorithms  
+- Backend & API Architecture  
+- Research-Oriented Engineering  
+
 ---
-<h3 align="left">Connect with me:</h3>
+
+# 🛠 Tech Stack
+
 <p align="left">
-<a href="https://twitter.com/swarnabha_h" target="blank"> <img width="85" height="85" src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/db17e3cc-01c2-40cd-b78d-eb66809f8eb5"/></a>
-<a href="https://discordapp.com/users/777243768884559902" target="blank"> <img width="75" height="75" src="https://user-images.githubusercontent.com/111165060/276134037-f011622f-758f-4cb7-adc4-11e1c3498744.png"/></a>
-<a href="https://linkedin.com/in/swarnabha-halder-627692254" target="blank"><img width="80" height="80" src="https://user-images.githubusercontent.com/111165060/276513655-02fbdb45-5574-491c-92d7-1a848539318c.png" alt="linkedin"/></a>
-<a href="https://instagram.com/swarnabha_halder" target="blank"> <img width="85" height="85" src="https://img.icons8.com/3d-fluency/990/instagram-new.png" alt="instagram-new"/> </a>
-<a href="https://codeforces.com/profile/swarnabha_dev" target="blank"><img  src="https://user-images.githubusercontent.com/111165060/276094718-1bf64938-51b7-4b8e-8658-22ebed0a59c1.png" alt="swarnabha_dev" height="75" width="65" /> </a> <a href="https://www.facebook.com/profile.php?id=100087553680083" target="blank"> <img width="85" height="85" src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/d477c451-767d-4092-b1c4-065ada5660d3"/></a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img width="85" height="85" src="https://user-images.githubusercontent.com/111165060/276516194-cebe0676-dc12-4879-b878-f519c2f06506.png" /></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://user-images.githubusercontent.com/111165060/276103986-c2cf6064-3e14-45f0-a81e-cf5641de84b0.png" width="80" height="80"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/f96348bf-2ab3-433f-ae09-a2326c71b4da" width="80" height="80"/></a>
+<a href="https://www.java.com/en/" target="_blank"><img src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/b8ecdc47-e7b4-4664-88d8-3ce958b82dc0" width="85" height="85"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/69e87f41-873e-4cd4-bfc9-1b6bf902fd6b" width="85" height="85"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/28625cac-9cb3-4679-8ff1-ce0de9c3d39a" width="85" height="85"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://user-images.githubusercontent.com/111165060/276099780-9e79cdea-e96c-4ca8-888e-8378a3d888a7.png" width="95" height="95"/></a>
+<a href="https://cloud.google.com" target="_blank"><img src="https://user-images.githubusercontent.com/111165060/276205660-82dd40cf-9638-4b0c-8305-9aa4020cb08e.jpg" width="85" height="85"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/111165060/276103971-89a03f7c-47fb-4d91-bff1-4c820ffa6732.png" width="70" height="70"/></a>
+
 </p>
 
-- 📫 You can also reach me **[swarnabha@swarnabha.tech](mailto:swarnabha@swarnabha.tech)** <br>
+---
 
+# 🌍 Open Source Contributions
 
+- Contributor during **Hacktoberfest 2023**
+- Contributor during **Hacktoberfest 2024**
+- Collaborated across multiple repositories and modern frameworks
+- Active learner in the evolving open-source ecosystem
 
-   
+---
+
+# 🎯 Future Vision
+
+- Architect enterprise-grade AI systems  
+- Publish research-backed ML frameworks  
+- Contribute significantly to open-source AI tooling  
+- Deepen mathematical foundations of Data Science  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://twitter.com/swarnabha_h" target="blank"><img width="80" height="80" src="https://github.com/swarnabha-dev/swarnabha-dev/assets/111165060/db17e3cc-01c2-40cd-b78d-eb66809f8eb5"/></a>
+<a href="https://discordapp.com/users/777243768884559902" target="blank"><img width="75" height="75" src="https://user-images.githubusercontent.com/111165060/276134037-f011622f-758f-4cb7-adc4-11e1c3498744.png"/></a>
+<a href="https://linkedin.com/in/swarnabha-halder-627692254" target="blank"><img width="80" height="80" src="https://user-images.githubusercontent.com/111165060/276513655-02fbdb45-5574-491c-92d7-1a848539318c.png"/></a>
+<a href="https://instagram.com/swarnabha_halder" target="blank"><img width="80" height="80" src="https://img.icons8.com/3d-fluency/990/instagram-new.png"/></a>
+<a href="https://codeforces.com/profile/swarnabha_dev" target="blank"><img height="75" width="65" src="https://user-images.githubusercontent.com/111165060/276094718-1bf64938-51b7-4b8e-8658-22ebed0a59c1.png"/></a>
+
+</p>
+
+📫 Email: **swarnabha@swarnabha.tech**
+
+---
+
 <p align="center">
   <a href="https://swarnabha.tech/" target="_blank">
-    <img width="60" height="60" alt="briefcase" src="https://github.com/user-attachments/assets/6a14909a-af7e-44c4-8c5a-686dfb4662fd" /><br>  
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
+    <img width="60" height="60" src="https://github.com/user-attachments/assets/6a14909a-af7e-44c4-8c5a-686dfb4662fd" /><br>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge"/>
   </a>
 </p>
 
-
-**Let's connect and explore the exciting world of data science together! 🚀**
-
 ---
 
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=swarnabha-dev&show_icons=true&count_private=true&&locale=en&theme=radical&hide_border=true">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabha-dev&layout=compact&hide_border=true&show_icons=true&locale=en&theme=radical">
-  <img src ="https://streak-stats.demolab.com/?user=swarnabha-dev&theme=radical&hide_border=true">
-  <br>
-  <br>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=swarnabha-dev&show_icons=true&count_private=true&theme=radical&hide_border=true">
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabha-dev&layout=compact&theme=radical&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=swarnabha-dev&theme=radical&hide_border=true">
 </p>
 
 ---
 
-<p allign="centre"> <img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dev&theme=radical&no-bg=true&row=1" alt="swarnabha-dev" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dev&theme=radical&no-bg=true&row=1" />
+</p>
 
 ---
 
-[![An image of @swarnabhadev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swarnabhadev)](https://holopin.io/@swarnabhadev)
+[![Holopin Badges](https://holopin.me/swarnabhadev)](https://holopin.io/@swarnabhadev)
 
 ---
 
-✍️ Random Dev Quote
+# ✍️ Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+---
 
+<div align="center">
+
+### ⭐ Engineering with precision. Research with depth. Build for impact.
+
+</div>
