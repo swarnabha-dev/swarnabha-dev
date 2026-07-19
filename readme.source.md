@@ -1,241 +1,226 @@
-```markdown
-<div align="center">
+# 👋 Hello, Welcome to my Profile!
 
-```aura width=800 height=360
-<div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', background: '#08080d', borderRadius: 20, overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
-  <style>{`
-    @keyframes orb-a { 0%, 100% { transform: translate(0, 0); opacity: 0.6; } 50% { transform: translate(28px, -22px); opacity: 0.9; } }
-    @keyframes orb-b { 0%, 100% { transform: translate(0, 0); opacity: 0.5; } 50% { transform: translate(-22px, 18px); opacity: 0.75; } }
-    @keyframes orb-c { 0%, 100% { transform: translate(0, 0); opacity: 0.35; } 50% { transform: translate(16px, -28px); opacity: 0.6; } }
-    @keyframes ring-blink { 0%, 100% { opacity: 0.06; } 50% { opacity: 0.18; } }
-    @keyframes ring-blink-b { 0%, 100% { opacity: 0.04; } 50% { opacity: 0.12; } }
-    @keyframes dot-spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-    #hero-o1 { animation: orb-a 9s ease-in-out infinite; }
-    #hero-o2 { animation: orb-b 11s ease-in-out infinite 0.8s; }
-    #hero-o3 { animation: orb-a 8s ease-in-out infinite 2s; }
-    #hero-o4 { animation: orb-b 13s ease-in-out infinite 0.4s; }
-    #hero-o5 { animation: orb-c 7s ease-in-out infinite 1.2s; }
-    #hr1 { animation: ring-blink 8s ease-in-out infinite; }
-    #hr2 { animation: ring-blink 8s ease-in-out infinite 1.4s; }
-    #hr3 { animation: ring-blink-b 8s ease-in-out infinite 2.8s; }
-    #hr4 { animation: ring-blink-b 8s ease-in-out infinite 4.2s; }
-    #hr5 { animation: ring-blink-b 10s ease-in-out infinite 5.6s; }
-    #hero-dot { animation: dot-spin 20s linear infinite; }
-  `}</style>
+<h3 align="center">Connect with me</h3>
 
-  <svg width="800" height="360" style={{ position: 'absolute', top: 0, left: 0 }}>
-    <defs>
-      <radialGradient id="hg1" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(122,162,247,0.55)" />
-        <stop offset="100%" stopColor="rgba(122,162,247,0)" />
-      </radialGradient>
-      <radialGradient id="hg2" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(187,154,247,0.5)" />
-        <stop offset="100%" stopColor="rgba(187,154,247,0)" />
-      </radialGradient>
-      <radialGradient id="hg3" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(125,207,255,0.35)" />
-        <stop offset="100%" stopColor="rgba(125,207,255,0)" />
-      </radialGradient>
-      <radialGradient id="hg4" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(247,118,142,0.28)" />
-        <stop offset="100%" stopColor="rgba(247,118,142,0)" />
-      </radialGradient>
-      <radialGradient id="hg5" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(224,175,104,0.3)" />
-        <stop offset="100%" stopColor="rgba(224,175,104,0)" />
-      </radialGradient>
-    </defs>
-    <ellipse id="hero-o1" cx="110" cy="310" rx="260" ry="200" fill="url(#hg1)" />
-    <ellipse id="hero-o2" cx="710" cy="70" rx="230" ry="190" fill="url(#hg2)" />
-    <ellipse id="hero-o3" cx="620" cy="330" rx="200" ry="160" fill="url(#hg3)" />
-    <ellipse id="hero-o4" cx="200" cy="55" rx="190" ry="150" fill="url(#hg4)" />
-    <ellipse id="hero-o5" cx="400" cy="340" rx="170" ry="130" fill="url(#hg5)" />
-    <circle id="hr1" cx="400" cy="178" r="52"  fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
-    <circle id="hr2" cx="400" cy="178" r="92"  fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
-    <circle id="hr3" cx="400" cy="178" r="138" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
-    <circle id="hr4" cx="400" cy="178" r="192" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
-    <circle id="hr5" cx="400" cy="178" r="256" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
-    <g id="hero-dot">
-      <circle cx="400" cy="126" r="2.5" fill="rgba(255,255,255,0.5)" />
-    </g>
-  </svg>
-
-  <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-    <span style={{ fontSize: 60, fontWeight: 700, color: '#ffffff', letterSpacing: -2, lineHeight: 1 }}>Swarnabha Halder</span>
-    <span style={{ fontSize: 13, color: 'rgba(255,255,255,0.5)', marginTop: 16, letterSpacing: 5, textTransform: 'uppercase', fontWeight: 300 }}>research · engineer · architect</span>
-    <div style={{ display: 'flex', gap: 8, marginTop: 30 }}>
-      <span style={{ padding: '5px 16px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.65)', borderRadius: 100, fontSize: 11, border: '1px solid rgba(255,255,255,0.09)', letterSpacing: 1 }}>medical imaging</span>
-      <span style={{ padding: '5px 16px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.65)', borderRadius: 100, fontSize: 11, border: '1px solid rgba(255,255,255,0.09)', letterSpacing: 1 }}>backend systems</span>
-      <span style={{ padding: '5px 16px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.65)', borderRadius: 100, fontSize: 11, border: '1px solid rgba(255,255,255,0.09)', letterSpacing: 1 }}>ai infrastructure</span>
-    </div>
-  </div>
-</div>
-
+```aura width=100 height=44 link="https://github.com" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/github/ffffff"
+  text="GitHub"
+  backgroundColor="#141414"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
+```
+```aura width=100 height=44 link="https://x.com" inline
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/x/ffffff"
+  text="X"
+  backgroundColor="#141414"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
+```
+```aura width=120 height=44 link="https://facebook.com" inline
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/facebook/0866FF"
+  text="Facebook"
+  backgroundColor="#021a40"
+  textColor="#ffffff"
+  width={120}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#021a40' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#0866FF' }, { offset: '65%', color: '#021a40' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
+```
+```aura width=130 height=44 link="https://instagram.com" inline
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/instagram/FF0069"
+  text="Instagram"
+  backgroundColor="#40001a"
+  textColor="#ffffff"
+  width={130}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#40001a' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#FF0069' }, { offset: '65%', color: '#40001a' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
 ```
 
+<br/>
+<h3 align="center">Languages</h3>
 
-
-
-
-```aura width=800 height=220
-<div style={{ display: 'flex', flexDirection: 'row', gap: 16, width: '100%', height: '100%', fontFamily: 'Inter, sans-serif' }}>
-  <style>{`
-    @keyframes about-orb-l { 0%, 100% { transform: translate(0,0); opacity: 0.65; } 50% { transform: translate(20px,-14px); opacity: 0.9; } }
-    @keyframes about-orb-r { 0%, 100% { transform: translate(0,0); opacity: 0.55; } 50% { transform: translate(-16px,12px); opacity: 0.8; } }
-    @keyframes about-ring { 0%, 100% { opacity: 0.07; } 50% { opacity: 0.2; } }
-    @keyframes about-ring-b { 0%, 100% { opacity: 0.04; } 50% { opacity: 0.13; } }
-    @keyframes cursor-blink { 0%, 100% { opacity: 1; } 49% { opacity: 1; } 50% { opacity: 0; } 99% { opacity: 0; } }
-    #ab-o1 { animation: about-orb-l 8s ease-in-out infinite; }
-    #ab-o2 { animation: about-orb-r 10s ease-in-out infinite 1s; }
-    #ab-o3 { animation: about-orb-l 7s ease-in-out infinite 2s; }
-    #ab-r1 { animation: about-ring 7s ease-in-out infinite; }
-    #ab-r2 { animation: about-ring 7s ease-in-out infinite 2s; }
-    #ab-r3 { animation: about-ring-b 7s ease-in-out infinite 3.5s; }
-    #ab-cursor { animation: cursor-blink 1.1s step-end infinite; }
-  `}</style>
-
-  <div style={{ position: 'relative', display: 'flex', flex: 1, height: '100%', background: '#08080d', borderRadius: 16, overflow: 'hidden' }}>
-    <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVyNmVtYnVubXg1Mmw1MTZ5Y29hdXN0dzJlOTFtNzVmNWwycmgxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fVsVfxVwz40I24GT7X/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVyNmVtYnVubXg1Mmw1MTZ5Y29hdXN0dzJlOTFtNzVmNWwycmgxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fVsVfxVwz40I24GT7X/giphy.gif)" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 0.35 }} />
-    <svg width="100%" height="220" style={{ position: 'absolute', top: 0, left: 0 }}>
-      <defs>
-        <radialGradient id="ab-gl" cx="50%" cy="50%" r="50%">
-          <stop offset="0%" stopColor="rgba(122,162,247,0.6)" />
-          <stop offset="100%" stopColor="rgba(122,162,247,0)" />
-        </radialGradient>
-        <radialGradient id="ab-gr" cx="50%" cy="50%" r="50%">
-          <stop offset="0%" stopColor="rgba(187,154,247,0.5)" />
-          <stop offset="100%" stopColor="rgba(187,154,247,0)" />
-        </radialGradient>
-        <radialGradient id="ab-gb" cx="50%" cy="50%" r="50%">
-          <stop offset="0%" stopColor="rgba(125,207,255,0.35)" />
-          <stop offset="100%" stopColor="rgba(125,207,255,0)" />
-        </radialGradient>
-      </defs>
-      <ellipse id="ab-o1" cx="40"  cy="180" rx="130" ry="110" fill="url(#ab-gl)" />
-      <ellipse id="ab-o2" cx="320" cy="40"  rx="120" ry="100" fill="url(#ab-gr)" />
-      <ellipse id="ab-o3" cx="260" cy="200" rx="100" ry="90"  fill="url(#ab-gb)" />
-      <circle id="ab-r1" cx="165" cy="110" r="38"  fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
-      <circle id="ab-r2" cx="165" cy="110" r="65"  fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
-      <circle id="ab-r3" cx="165" cy="110" r="100" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
-    </svg>
-    <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', justifyContent: 'center', padding: '0 28px', zIndex: 10 }}>
-      <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.35)', letterSpacing: 3, textTransform: 'uppercase', marginBottom: 10 }}>vision</span>
-      <span style={{ fontSize: 22, fontWeight: 600, color: '#ffffff', lineHeight: 1.3 }}>Building production-grade</span>
-      <span style={{ fontSize: 22, fontWeight: 600, color: '#ffffff', lineHeight: 1.3 }}>AI systems.</span>
-      <div style={{ display: 'flex', alignItems: 'center', marginTop: 14 }}>
-        <span style={{ fontSize: 13, color: 'rgba(255,255,255,0.5)', fontFamily: 'monospace' }}>{'> mathematics meets scalable engineering'}</span>
-        <span id="ab-cursor" style={{ fontSize: 13, color: 'rgba(255,255,255,0.6)', fontFamily: 'monospace', marginLeft: 1 }}>_</span>
-      </div>
-    </div>
-  </div>
-
-  <div style={{ display: 'flex', flexDirection: 'column', gap: 16, width: 220, flexShrink: 0 }}>
-    <div style={{ position: 'relative', display: 'flex', flex: 1, background: '#08080d', borderRadius: 16, overflow: 'hidden', alignItems: 'center', justifyContent: 'center' }}>
-      <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW95cTRnOXM1dTc1YTFwNjRkcGNkN2RqYjdhdTB3NTc3NDFiNjFxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW95cTRnOXM1dTc1YTFwNjRkcGNkN2RqYjdhdTB3NTc3NDFiNjFxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.gif)" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
-      <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-        <span style={{ fontSize: 32, fontWeight: 700, color: '#ffffff' }}>🔬</span>
-        <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.4)', letterSpacing: 2, textTransform: 'uppercase', marginTop: 4 }}>applied research</span>
-      </div>
-    </div>
-    <div style={{ position: 'relative', display: 'flex', flex: 1, background: '#08080d', borderRadius: 16, overflow: 'hidden', alignItems: 'center', justifyContent: 'center' }}>
-      <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdhbXMwdWNkaDA5eTM4Y3ZjYnYzNTR5YnB0M21jdzlrd2gyczQxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGh13y4IVFZzCACfTX/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdhbXMwdWNkaDA5eTM4Y3ZjYnYzNTR5YnB0M21jdzlrd2gyczQxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGh13y4IVFZzCACfTX/giphy.gif)" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
-      <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-        <span style={{ fontSize: 32, fontWeight: 700, color: '#ffffff' }}>⚙️</span>
-        <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.4)', letterSpacing: 2, textTransform: 'uppercase', marginTop: 4 }}>system architecture</span>
-      </div>
-    </div>
-  </div>
-</div>
-
+```aura width=100 height=44 inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/python/3776AB"
+  text="Python"
+  backgroundColor="#0e1e2b"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#0e1e2b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#3776AB' }, { offset: '65%', color: '#0e1e2b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
+```
+```aura width=100 height=44 inline
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/c/A8B9CC"
+  text="C"
+  backgroundColor="#2a2e33"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#2a2e33' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#A8B9CC' }, { offset: '65%', color: '#2a2e33' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
+```
+```aura width=100 height=44 inline
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/cplusplus/00599C"
+  text="C++"
+  backgroundColor="#001627"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#001627' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#00599C' }, { offset: '65%', color: '#001627' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
 ```
 
-```aura width=800 height=200
-<div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', background: '#08080d', borderRadius: 20, overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
-  <style>{`
-    @keyframes stack-orb { 0%, 100% { transform: translate(0,0); opacity: 0.45; } 50% { transform: translate(18px,-14px); opacity: 0.7; } }
-    @keyframes stack-orb-b { 0%, 100% { transform: translate(0,0); opacity: 0.4; } 50% { transform: translate(-14px,10px); opacity: 0.65; } }
-    @keyframes chip-appear { 0% { opacity: 0; transform: translateY(8px); } 100% { opacity: 1; transform: translateY(0); } }
-    #st-o1 { animation: stack-orb 10s ease-in-out infinite; }
-    #st-o2 { animation: stack-orb-b 12s ease-in-out infinite 1s; }
-    #st-o3 { animation: stack-orb 9s ease-in-out infinite 2.5s; }
-    #st-o4 { animation: stack-orb-b 11s ease-in-out infinite 0.5s; }
-  `}</style>
-  <svg width="800" height="200" style={{ position: 'absolute', top: 0, left: 0 }}>
-    <defs>
-      <radialGradient id="sg1" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(122,162,247,0.4)" />
-        <stop offset="100%" stopColor="rgba(122,162,247,0)" />
-      </radialGradient>
-      <radialGradient id="sg2" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(187,154,247,0.35)" />
-        <stop offset="100%" stopColor="rgba(187,154,247,0)" />
-      </radialGradient>
-      <radialGradient id="sg3" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(125,207,255,0.3)" />
-        <stop offset="100%" stopColor="rgba(125,207,255,0)" />
-      </radialGradient>
-      <radialGradient id="sg4" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(247,118,142,0.3)" />
-        <stop offset="100%" stopColor="rgba(247,118,142,0)" />
-      </radialGradient>
-    </defs>
-    <ellipse id="st-o1" cx="80"  cy="160" rx="160" ry="120" fill="url(#sg1)" />
-    <ellipse id="st-o2" cx="730" cy="50"  rx="150" ry="120" fill="url(#sg2)" />
-    <ellipse id="st-o3" cx="640" cy="170" rx="140" ry="110" fill="url(#sg3)" />
-    <ellipse id="st-o4" cx="180" cy="40"  rx="130" ry="100" fill="url(#sg4)" />
-  </svg>
-  <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.4)', letterSpacing: 4, textTransform: 'uppercase', marginBottom: 20, zIndex: 10 }}>core stack</span>
-  <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, justifyContent: 'center', zIndex: 10, maxWidth: 680 }}>
-    {[
-      'Python', 'FastAPI', 'PyTorch', 'TensorFlow', 'OpenCV', 'C++', 'Java',
-      'Docker', 'MySQL', 'PostgreSQL', 'GCP', 'Linux', 'Bash'
-    ].map((tech, i) => (
-      <span key={i} style={{ padding: '7px 18px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.7)', borderRadius: 100, fontSize: 12, border: '1px solid rgba(255,255,255,0.1)', letterSpacing: 0.5 }}>{tech}</span>
-    ))}
-  </div>
-</div>
+<br/>
+<h3 align="center">Frameworks & Databases</h3>
 
+```aura width=100 height=44 inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/django/092E20"
+  text="Django"
+  backgroundColor="#020c08"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#020c08' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#092E20' }, { offset: '65%', color: '#020c08' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
+```
+```aura width=100 height=44 inline
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/flask/3BABC3"
+  text="Flask"
+  backgroundColor="#0f2b31"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#0f2b31' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#3BABC3' }, { offset: '65%', color: '#0f2b31' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
+```
+```aura width=110 height=44 inline
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/mongodb/47A248"
+  text="MongoDB"
+  backgroundColor="#122912"
+  textColor="#ffffff"
+  width={110}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#122912' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#47A248' }, { offset: '65%', color: '#122912' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
+```
+```aura width=100 height=44 inline
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/mysql/4479A1"
+  text="MySQL"
+  backgroundColor="#111e28"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#111e28' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#4479A1' }, { offset: '65%', color: '#111e28' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
 ```
 
+<br/>
+<h3 align="center">Tools & Infrastructure</h3>
 
-
-
-
-```aura width=130 height=44 link="[https://linkedin.com/in/swarnabha-halder-627692254](https://linkedin.com/in/swarnabha-halder-627692254)" inline align=center
-<SocialMediaButton '#041528' '#0A66C2' '#555555' '#eeeeee' '#ffffff' '0%', '10%', '100%', '50%', '60%', '80%', ]} backgroundColor="#041528" color: gradientStops="{[" height="{44}" icon="[https://cdn.simpleicons.org/linkedin/0A66C2](https://cdn.simpleicons.org/linkedin/0A66C2)" offset: text="LinkedIn" width="{130}" { },/>
-
+```aura width=140 height=44 inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/cloudflare/F38020"
+  text="Cloudflare"
+  backgroundColor="#3d2008"
+  textColor="#ffffff"
+  width={140}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#3d2008' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#F38020' }, { offset: '65%', color: '#3d2008' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
 ```
-
-```aura width=130 height=44 link="[https://swarnabha.tech/](https://swarnabha.tech/)" inline align=center
-<SocialMediaButton '#07132e' '#2563EB' '#555555' '#eeeeee' '#ffffff' '0%', '10%', '100%', '50%', '60%', '80%', ]} backgroundColor="#07132e" color: gradientStops="{[" height="{44}" icon="[https://cdn.simpleicons.org/appveyor/2563EB](https://cdn.simpleicons.org/appveyor/2563EB)" offset: text="Portfolio" width="{130}" { },/>
-
+```aura width=100 height=44 inline
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/git/F05032"
+  text="Git"
+  backgroundColor="#3c140d"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#3c140d' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#F05032' }, { offset: '65%', color: '#3c140d' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
 ```
-
-```aura width=120 height=44 link="mailto:swarnabha@swarnabha.tech" inline align=center
-<SocialMediaButton '#2b0a0a' '#555555' '#EA4335' '#eeeeee' '#ffffff' '0%', '10%', '100%', '50%', '60%', '80%', ]} backgroundColor="#2b0a0a" color: gradientStops="{[" height="{44}" icon="[https://cdn.simpleicons.org/gmail/EA4335](https://cdn.simpleicons.org/gmail/EA4335)" offset: text="Email" width="{120}" { },/>
-
+```aura width=100 height=44 inline
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/linux/FCC624"
+  text="Linux"
+  backgroundColor="#3f3209"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#3f3209' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#FCC624' }, { offset: '65%', color: '#3f3209' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
 ```
-
-```aura width=140 height=44 link="[https://codeforces.com/profile/swarnabha_dev](https://codeforces.com/profile/swarnabha_dev)" inline align=center
-<SocialMediaButton '#061e2e' '#1F8ACB' '#555555' '#eeeeee' '#ffffff' '0%', '10%', '100%', '50%', '60%', '80%', ]} backgroundColor="#061e2e" color: gradientStops="{[" height="{44}" icon="[https://cdn.simpleicons.org/codeforces/1F8ACB](https://cdn.simpleicons.org/codeforces/1F8ACB)" offset: text="Codeforces" width="{140}" { },/>
-
+```aura width=100 height=44 inline
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/ubuntu/E95420"
+  text="Ubuntu"
+  backgroundColor="#3a1508"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#3a1508' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#E95420' }, { offset: '65%', color: '#3a1508' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> *"Good engineering isn't about writing more code—it's about designing systems that remain reliable, scalable, and understandable long after they're deployed."*
