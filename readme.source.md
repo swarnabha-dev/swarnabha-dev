@@ -29,7 +29,7 @@
  <div style={{ position: 'absolute', left: 48, top: 52, width: 96, height: 96, borderRadius: 48, background: 'linear-gradient(135deg, #6622ee, #0088ff)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
    <img src={(github && github.user && github.user.avatarUrl) || 'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'} width={88} height={88} style={{ borderRadius: 44 }} />
  </div>
- <div style={{ display:'flex', flexDirection:'column', marginLeft:168, gap:8, zIndex: 10 }}>
+ <div style={{ display:'flex', flexDirection:'column', marginLeft:168, gap:8 }}>
    <div style={{ display:'flex', fontSize:38, fontWeight:800, color:'#ffffff', letterSpacing:'-1px', lineHeight:1 }}>
      {(github && github.user && (github.user.name || github.user.login)) || 'Swarnabha Halder'}
    </div>
@@ -78,7 +78,7 @@
         {`
           @keyframes float-char { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-15px); } }
           @keyframes pulse-aura { 0%, 100% { opacity: 0.4; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.15); } }
-          #char-wrapper { animation: float-char 6s ease-in-out infinite; display: flex; border-radius: 24px; box-shadow: 0px 20px 50px rgba(110,80,220,0.4); overflow: hidden; }
+          #char-wrapper { animation: float-char 6s ease-in-out infinite; box-shadow: 0px 20px 50px rgba(110,80,220,0.4); }
           #aura-glow { animation: pulse-aura 5s ease-in-out infinite; }
         `}
       </style>
@@ -92,8 +92,8 @@
         </defs>
         <ellipse id="aura-glow" cx="430" cy="240" rx="350" ry="300" fill="url(#char-bg)" />
       </svg>
-      <div id="char-wrapper" style={{ zIndex: 10 }}>
-        <img alt="Swarnabha Character Illustration" src="https://github.com/user-attachments/assets/af00b81f-0143-42ab-9010-e2fa8ef0e424" width="400" height="400" />
+      <div id="char-wrapper" style={{ display: 'flex', borderRadius: 24, overflow: 'hidden' }}>
+        <img alt="Swarnabha Character Illustration" src="https://github.com/user-attachments/assets/af00b81f-0143-42ab-9010-e2fa8ef0e424" width={400} height={400} />
       </div>
     </div>
   );
@@ -107,11 +107,11 @@
 ```aura width=860 height=80
 <div style={{ width: '100%', height: '100%', background: '#08080c', display: 'flex', alignItems: 'center', justifyContent: 'center', position: 'relative', overflow: 'hidden', borderRadius: 12, border: '1px solid rgba(110,80,220,0.2)' }}>
   <style>{` @keyframes pulse-text { 0%, 100% { text-shadow: 0 0 10px rgba(110,80,220,0.5); } 50% { text-shadow: 0 0 25px rgba(160,100,255,0.9); } } #title { animation: pulse-text 3s infinite; } `}</style>
-  <svg width="860" height="80" style={{ position: 'absolute' }}>
+  <svg width="860" height="80" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs><radialGradient id="bg" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="rgba(110,40,240,0.3)" /><stop offset="100%" stopColor="transparent" /></radialGradient></defs>
     <rect width="860" height="80" fill="url(#bg)" />
   </svg>
-  <h2 id="title" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', zIndex: 10, margin: 0 }}>ABOUT ME</h2>
+  <h2 id="title" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0 }}>ABOUT ME</h2>
 </div>
 ```
 
@@ -127,11 +127,11 @@ My work spans **scientific computing, distributed backend systems, medical image
 ```aura width=860 height=80
 <div style={{ width: '100%', height: '100%', background: '#08080c', display: 'flex', alignItems: 'center', justifyContent: 'center', position: 'relative', overflow: 'hidden', borderRadius: 12, border: '1px solid rgba(110,80,220,0.2)' }}>
   <style>{` @keyframes pulse-text2 { 0%, 100% { text-shadow: 0 0 10px rgba(40,110,240,0.5); } 50% { text-shadow: 0 0 25px rgba(80,160,255,0.9); } } #title2 { animation: pulse-text2 3s infinite; } `}</style>
-  <svg width="860" height="80" style={{ position: 'absolute' }}>
+  <svg width="860" height="80" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs><radialGradient id="bg2" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="rgba(40,110,240,0.25)" /><stop offset="100%" stopColor="transparent" /></radialGradient></defs>
     <rect width="860" height="80" fill="url(#bg2)" />
   </svg>
-  <h2 id="title2" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', zIndex: 10, margin: 0 }}>FEATURED PROJECTS</h2>
+  <h2 id="title2" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0 }}>FEATURED PROJECTS</h2>
 </div>
 ```
 
@@ -160,11 +160,11 @@ My work spans **scientific computing, distributed backend systems, medical image
 ```aura width=860 height=80
 <div style={{ width: '100%', height: '100%', background: '#08080c', display: 'flex', alignItems: 'center', justifyContent: 'center', position: 'relative', overflow: 'hidden', borderRadius: 12, border: '1px solid rgba(110,80,220,0.2)' }}>
   <style>{` @keyframes pulse-text3 { 0%, 100% { text-shadow: 0 0 10px rgba(240,40,140,0.5); } 50% { text-shadow: 0 0 25px rgba(255,80,180,0.9); } } #title3 { animation: pulse-text3 3s infinite; } `}</style>
-  <svg width="860" height="80" style={{ position: 'absolute' }}>
+  <svg width="860" height="80" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs><radialGradient id="bg3" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="rgba(240,40,140,0.25)" /><stop offset="100%" stopColor="transparent" /></radialGradient></defs>
     <rect width="860" height="80" fill="url(#bg3)" />
   </svg>
-  <h2 id="title3" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', zIndex: 10, margin: 0 }}>TECHNICAL ARSENAL</h2>
+  <h2 id="title3" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0 }}>TECHNICAL ARSENAL</h2>
 </div>
 ```
 
@@ -217,11 +217,11 @@ My work spans **scientific computing, distributed backend systems, medical image
 ```aura width=860 height=80
 <div style={{ width: '100%', height: '100%', background: '#08080c', display: 'flex', alignItems: 'center', justifyContent: 'center', position: 'relative', overflow: 'hidden', borderRadius: 12, border: '1px solid rgba(110,80,220,0.2)' }}>
   <style>{` @keyframes pulse-text4 { 0%, 100% { text-shadow: 0 0 10px rgba(110,240,140,0.5); } 50% { text-shadow: 0 0 25px rgba(80,255,180,0.9); } } #title4 { animation: pulse-text4 3s infinite; } `}</style>
-  <svg width="860" height="80" style={{ position: 'absolute' }}>
+  <svg width="860" height="80" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs><radialGradient id="bg4" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="rgba(110,240,140,0.25)" /><stop offset="100%" stopColor="transparent" /></radialGradient></defs>
     <rect width="860" height="80" fill="url(#bg4)" />
   </svg>
-  <h2 id="title4" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', zIndex: 10, margin: 0 }}>EXPERIENCE & JOURNEY</h2>
+  <h2 id="title4" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0 }}>EXPERIENCE & JOURNEY</h2>
 </div>
 ```
 
@@ -236,11 +236,11 @@ My work spans **scientific computing, distributed backend systems, medical image
 ```aura width=860 height=80
 <div style={{ width: '100%', height: '100%', background: '#08080c', display: 'flex', alignItems: 'center', justifyContent: 'center', position: 'relative', overflow: 'hidden', borderRadius: 12, border: '1px solid rgba(110,80,220,0.2)' }}>
   <style>{` @keyframes pulse-text5 { 0%, 100% { text-shadow: 0 0 10px rgba(240,180,40,0.5); } 50% { text-shadow: 0 0 25px rgba(255,200,80,0.9); } } #title5 { animation: pulse-text5 3s infinite; } `}</style>
-  <svg width="860" height="80" style={{ position: 'absolute' }}>
+  <svg width="860" height="80" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs><radialGradient id="bg5" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="rgba(240,180,40,0.25)" /><stop offset="100%" stopColor="transparent" /></radialGradient></defs>
     <rect width="860" height="80" fill="url(#bg5)" />
   </svg>
-  <h2 id="title5" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', zIndex: 10, margin: 0 }}>GITHUB ANALYTICS</h2>
+  <h2 id="title5" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0 }}>GITHUB ANALYTICS</h2>
 </div>
 ```
 
