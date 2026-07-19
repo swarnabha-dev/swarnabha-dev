@@ -50,16 +50,16 @@
 <br>
 
 ```aura width=100 height=44 link="https://github.com/swarnabha-dev" inline align=center
-<SocialMediaButton icon="https://cdn.simpleicons.org/github" text="GitHub" backgroundColor="#141414" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/github/ffffff" text="GitHub" backgroundColor="#141414" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=100 height=44 link="https://x.com/swarnabha_dev" inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/x" text="X" backgroundColor="#141414" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/x/ffffff" text="X" backgroundColor="#141414" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=120 height=44 link="https://linkedin.com/in/swarnabha-halder-627692254" inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/linkedin" text="LinkedIn" backgroundColor="#041221" textColor="#ffffff" width={120} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#041221' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#0A66C2' }, { offset: '65%', color: '#041221' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={20} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/linkedin/0A66C2" text="LinkedIn" backgroundColor="#041221" textColor="#ffffff" width={120} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#041221' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#0A66C2' }, { offset: '65%', color: '#041221' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={20} />
 ```
 ```aura width=110 height=44 link="mailto:swarnabha@swarnabha.tech" inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/gmail" text="Email" backgroundColor="#330e0b" textColor="#ffffff" width={110} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#330e0b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#EA4335' }, { offset: '65%', color: '#330e0b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={20} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/gmail/EA4335" text="Email" backgroundColor="#330e0b" textColor="#ffffff" width={110} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#330e0b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#EA4335' }, { offset: '65%', color: '#330e0b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={20} />
 ```
 
 <br>
@@ -70,31 +70,35 @@
 
 <br>
 
-```aura width=860 height=480
+```aura width=860 height=420
 (function() {
   return (
     <div style={{ width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', position: 'relative' }}>
       <style>
         {`
-          @keyframes float-char { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-15px); } }
-          @keyframes pulse-aura { 0%, 100% { opacity: 0.4; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.15); } }
-          #char-wrapper { animation: float-char 6s ease-in-out infinite; box-shadow: 0px 20px 50px rgba(110,80,220,0.4); }
+          @keyframes float-char { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-25px); } }
+          @keyframes pulse-aura { 0%, 100% { opacity: 0.3; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.15); } }
+          #char-group { animation: float-char 6s ease-in-out infinite; }
           #aura-glow { animation: pulse-aura 5s ease-in-out infinite; }
         `}
       </style>
-      <svg width="860" height="480" style={{ position: 'absolute', top: 0, left: 0 }}>
+      <svg width="860" height="420" style={{ position: 'absolute', top: 0, left: 0 }}>
         <defs>
           <radialGradient id="char-bg" cx="50%" cy="50%" r="50%">
             <stop offset="0%" stopColor="rgba(120,40,240,0.6)" />
             <stop offset="40%" stopColor="rgba(90,20,180,0.2)" />
-            <stop offset="70%" stopColor="rgba(0,0,0,0)" />
+            <stop offset="70%" stopColor="transparent" />
           </radialGradient>
+          <clipPath id="circle-clip">
+            <circle cx="430" cy="210" r="160" />
+          </clipPath>
         </defs>
-        <ellipse id="aura-glow" cx="430" cy="240" rx="350" ry="300" fill="url(#char-bg)" />
+        <ellipse id="aura-glow" cx="430" cy="210" rx="220" ry="220" fill="url(#char-bg)" />
+        <g id="char-group">
+          <image href="https://github.com/user-attachments/assets/af00b81f-0143-42ab-9010-e2fa8ef0e424" width="320" height="320" x="270" y="50" preserveAspectRatio="xMidYMid slice" clipPath="url(#circle-clip)" />
+          <circle cx="430" cy="210" r="160" fill="none" stroke="rgba(180,140,255,0.7)" strokeWidth="4" />
+        </g>
       </svg>
-      <div id="char-wrapper" style={{ display: 'flex', borderRadius: 24, overflow: 'hidden' }}>
-        <img alt="Swarnabha Character Illustration" src="https://github.com/user-attachments/assets/af00b81f-0143-42ab-9010-e2fa8ef0e424" width={400} height={400} />
-      </div>
     </div>
   );
 })()
@@ -111,7 +115,7 @@
     <defs><radialGradient id="bg" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="rgba(110,40,240,0.3)" /><stop offset="100%" stopColor="transparent" /></radialGradient></defs>
     <rect width="860" height="80" fill="url(#bg)" />
   </svg>
-  <h2 id="title" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0 }}>ABOUT ME</h2>
+  <h2 id="title" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0, display: 'flex' }}>ABOUT ME</h2>
 </div>
 ```
 
@@ -131,7 +135,7 @@ My work spans **scientific computing, distributed backend systems, medical image
     <defs><radialGradient id="bg2" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="rgba(40,110,240,0.25)" /><stop offset="100%" stopColor="transparent" /></radialGradient></defs>
     <rect width="860" height="80" fill="url(#bg2)" />
   </svg>
-  <h2 id="title2" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0 }}>FEATURED PROJECTS</h2>
+  <h2 id="title2" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0, display: 'flex' }}>FEATURED PROJECTS</h2>
 </div>
 ```
 
@@ -164,7 +168,7 @@ My work spans **scientific computing, distributed backend systems, medical image
     <defs><radialGradient id="bg3" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="rgba(240,40,140,0.25)" /><stop offset="100%" stopColor="transparent" /></radialGradient></defs>
     <rect width="860" height="80" fill="url(#bg3)" />
   </svg>
-  <h2 id="title3" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0 }}>TECHNICAL ARSENAL</h2>
+  <h2 id="title3" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0, display: 'flex' }}>TECHNICAL ARSENAL</h2>
 </div>
 ```
 
@@ -172,43 +176,43 @@ My work spans **scientific computing, distributed backend systems, medical image
 <br>
 
 ```aura width=100 height=44 inline align=center
-<SocialMediaButton icon="https://cdn.simpleicons.org/python" text="Python" backgroundColor="#0e1e2b" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#0e1e2b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#3776AB' }, { offset: '65%', color: '#0e1e2b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/python/3776AB" text="Python" backgroundColor="#0e1e2b" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#0e1e2b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#3776AB' }, { offset: '65%', color: '#0e1e2b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/c" text="C" backgroundColor="#2a2e33" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#2a2e33' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#A8B9CC' }, { offset: '65%', color: '#2a2e33' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/c/A8B9CC" text="C" backgroundColor="#2a2e33" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#2a2e33' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#A8B9CC' }, { offset: '65%', color: '#2a2e33' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/cplusplus" text="C++" backgroundColor="#001627" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#001627' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#00599C' }, { offset: '65%', color: '#001627' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/cplusplus/00599C" text="C++" backgroundColor="#001627" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#001627' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#00599C' }, { offset: '65%', color: '#001627' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/fastapi" text="FastAPI" backgroundColor="#001e1b" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#001e1b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#009688' }, { offset: '65%', color: '#001e1b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/fastapi/009688" text="FastAPI" backgroundColor="#001e1b" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#001e1b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#009688' }, { offset: '65%', color: '#001e1b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 
 <br>
 
 ```aura width=100 height=44 inline align=center
-<SocialMediaButton icon="https://cdn.simpleicons.org/django" text="Django" backgroundColor="#020c08" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#020c08' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#092E20' }, { offset: '65%', color: '#020c08' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/django/092E20" text="Django" backgroundColor="#020c08" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#020c08' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#092E20' }, { offset: '65%', color: '#020c08' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/flask" text="Flask" backgroundColor="#0f2b31" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#0f2b31' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#3BABC3' }, { offset: '65%', color: '#0f2b31' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/flask/3BABC3" text="Flask" backgroundColor="#0f2b31" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#0f2b31' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#3BABC3' }, { offset: '65%', color: '#0f2b31' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=110 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/mongodb" text="MongoDB" backgroundColor="#122912" textColor="#ffffff" width={110} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#122912' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#47A248' }, { offset: '65%', color: '#122912' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/mongodb/47A248" text="MongoDB" backgroundColor="#122912" textColor="#ffffff" width={110} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#122912' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#47A248' }, { offset: '65%', color: '#122912' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/mysql" text="MySQL" backgroundColor="#111e28" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#111e28' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#4479A1' }, { offset: '65%', color: '#111e28' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/mysql/4479A1" text="MySQL" backgroundColor="#111e28" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#111e28' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#4479A1' }, { offset: '65%', color: '#111e28' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 
 <br>
 
 ```aura width=140 height=44 inline align=center
-<SocialMediaButton icon="https://cdn.simpleicons.org/cloudflare" text="Cloudflare" backgroundColor="#3d2008" textColor="#ffffff" width={140} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#3d2008' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#F38020' }, { offset: '65%', color: '#3d2008' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/cloudflare/F38020" text="Cloudflare" backgroundColor="#3d2008" textColor="#ffffff" width={140} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#3d2008' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#F38020' }, { offset: '65%', color: '#3d2008' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/docker" text="Docker" backgroundColor="#071e2f" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#071e2f' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#2496ED' }, { offset: '65%', color: '#071e2f' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/docker/2496ED" text="Docker" backgroundColor="#071e2f" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#071e2f' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#2496ED' }, { offset: '65%', color: '#071e2f' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/ubuntu" text="Ubuntu" backgroundColor="#3a1508" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#3a1508' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#E95420' }, { offset: '65%', color: '#3a1508' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/ubuntu/E95420" text="Ubuntu" backgroundColor="#3a1508" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#3a1508' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#E95420' }, { offset: '65%', color: '#3a1508' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 </div>
 
@@ -221,7 +225,7 @@ My work spans **scientific computing, distributed backend systems, medical image
     <defs><radialGradient id="bg4" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="rgba(110,240,140,0.25)" /><stop offset="100%" stopColor="transparent" /></radialGradient></defs>
     <rect width="860" height="80" fill="url(#bg4)" />
   </svg>
-  <h2 id="title4" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0 }}>EXPERIENCE & JOURNEY</h2>
+  <h2 id="title4" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0, display: 'flex' }}>EXPERIENCE & JOURNEY</h2>
 </div>
 ```
 
@@ -240,7 +244,7 @@ My work spans **scientific computing, distributed backend systems, medical image
     <defs><radialGradient id="bg5" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="rgba(240,180,40,0.25)" /><stop offset="100%" stopColor="transparent" /></radialGradient></defs>
     <rect width="860" height="80" fill="url(#bg5)" />
   </svg>
-  <h2 id="title5" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0 }}>GITHUB ANALYTICS</h2>
+  <h2 id="title5" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0, display: 'flex' }}>GITHUB ANALYTICS</h2>
 </div>
 ```
 
