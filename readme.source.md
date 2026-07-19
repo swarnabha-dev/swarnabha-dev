@@ -36,14 +36,14 @@
    <div style={{ display:'flex', fontSize:15, color:'rgba(180,165,255,0.8)', fontWeight:400, letterSpacing:'0.3px' }}>
      AI Engineer · Backend Developer · Researcher
    </div>
-   <div style={{ display:'flex', gap:8, marginTop:6 }}>
-     {['Python', 'FastAPI', 'PyTorch', 'C++'].map(function(tag) {
-       return (
-         <div key={tag} style={{ display:'flex', padding:'4px 12px', borderRadius:20, background:'rgba(80,40,220,0.18)', border:'1px solid rgba(100,70,240,0.32)', color:'rgba(205,195,255,0.85)', fontSize:12, fontWeight:600 }}>{tag}</div>
-       );
+       <div style={{ display:'flex', gap:8, marginTop:6 }}>
+         {['Python', 'FastAPI', 'PyTorch', 'C++'].map(function(tag) {
+           return (
+             <div key={tag} style={{ display:'flex', padding:'4px 12px', borderRadius:20, background:'rgba(80,40,220,0.18)', border:'1px solid rgba(100,70,240,0.32)', color:'rgba(205,195,255,0.85)', fontSize:12, fontWeight:600 }}>{tag}</div>
+           );
+         })}
        </div>
      </div>
-   </div>
 </div>
 \`\`\`
 
