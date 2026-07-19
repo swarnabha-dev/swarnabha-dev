@@ -36,20 +36,20 @@
    <div style={{ display:'flex', fontSize:15, color:'rgba(180,165,255,0.8)', fontWeight:400, letterSpacing:'0.3px' }}>
      AI Engineer · Backend Developer · Researcher
    </div>
-       <div style={{ display:'flex', gap:8, marginTop:6 }}>
-         {['Python', 'FastAPI', 'PyTorch', 'C++'].map(function(tag) {
-           return (
-             <div key={tag} style={{ display:'flex', padding:'4px 12px', borderRadius:20, background:'rgba(80,40,220,0.18)', border:'1px solid rgba(100,70,240,0.32)', color:'rgba(205,195,255,0.85)', fontSize:12, fontWeight:600 }}>{tag}</div>
-           );
-         })}
-       </div>
-     </div>
+   <div style={{ display:'flex', gap:8, marginTop:6 }}>
+     {['Python', 'FastAPI', 'PyTorch', 'C++'].map(function(tag) {
+       return (
+         <div key={tag} style={{ display:'flex', padding:'4px 12px', borderRadius:20, background:'rgba(80,40,220,0.18)', border:'1px solid rgba(100,70,240,0.32)', color:'rgba(205,195,255,0.85)', fontSize:12, fontWeight:600 }}>{tag}</div>
+       );
+     })}
+   </div>
+ </div>
 </div>
-\`\`\`
+```
 
 <br>
 
-\`\`\`aura width=100 height=44 link="https://github.com/swarnabha-dev" inline align=center
+```aura width=100 height=44 link="https://github.com/swarnabha-dev" inline align=center
 <SocialMediaButton
   icon="data:image/svg+xml;utf8,%3Csvg role='img' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' fill='%23ffffff'%3E%3Ctitle%3EGitHub%3C/title%3E%3Cpath d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E"
   text="GitHub"
@@ -62,16 +62,16 @@
   ]}
   iconSize={22}
 />
-\`\`\`
-\`\`\`aura width=120 height=44 link="https://linkedin.com/in/swarnabha-halder-627692254" inline
+```
+```aura width=120 height=44 link="https://linkedin.com/in/swarnabha-halder-627692254" inline
 <SocialMediaButton icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/linkedin-icon.png" text="Linkedin" backgroundColor="#000000" width={120} height={44} gradientStops={[{ offset: '0%', color: '#b57af9' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9d6bf0' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#c89dfb' }]} />
-\`\`\`
-\`\`\`aura width=138 height=44 link="https://x.com/swarnabha_dev" inline
+```
+```aura width=138 height=44 link="https://x.com/swarnabha_dev" inline
 <SocialMediaButton icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/x-icon.svg" text="X.com" backgroundColor="#000000" width={138} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
-\`\`\`
-\`\`\`aura width=110 height=44 link="mailto:swarnabha@swarnabha.tech" inline
+```
+```aura width=110 height=44 link="mailto:swarnabha@swarnabha.tech" inline
 <SocialMediaButton icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/gmail-icon.svg" text="Email" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
+```
 
 <br>
 
@@ -181,103 +181,106 @@ My work spans **scientific computing, distributed backend systems, medical image
   </svg>
   <h2 id="title3" style={{ color: '#fff', fontFamily: 'Inter', fontSize: 26, fontWeight: 700, letterSpacing: '3px', margin: 0, display: 'flex' }}>TECHNICAL ARSENAL</h2>
 </div>
-\`\`\`
+```
 
 <br>
 <h4 align="center">Languages</h4>
 
-\`\`\`aura width=100 height=44 inline align=center
+```aura width=100 height=44 inline align=center
 <SocialMediaButton icon="https://skillicons.dev/icons?i=python" text="Python" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=90 height=44 inline
+```
+```aura width=90 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=java" text="Java" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=90 height=44 inline
+```
+```aura width=90 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=cpp" text="C++" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=80 height=44 inline
+```
+```aura width=80 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=c" text="C" backgroundColor="#000000" width={80} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=90 height=44 inline
+```
+```aura width=90 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=bash" text="Bash" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
+```
 
 <br>
 <h4 align="center">Backend & Frameworks</h4>
 
-\`\`\`aura width=110 height=44 inline align=center
+```aura width=110 height=44 inline align=center
 <SocialMediaButton icon="https://skillicons.dev/icons?i=fastapi" text="FastAPI" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=90 height=44 inline
+```
+```aura width=90 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=flask" text="Flask" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=100 height=44 inline
+```
+```aura width=100 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=django" text="Django" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=110 height=44 inline
+```
+```aura width=110 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=nodejs" text="Node.js" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
+```
 
 <br>
 <h4 align="center">AI & Machine Learning</h4>
 
-\`\`\`aura width=130 height=44 inline align=center
+```aura width=130 height=44 inline align=center
 <SocialMediaButton icon="https://skillicons.dev/icons?i=tensorflow" text="TensorFlow" backgroundColor="#000000" width={130} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=110 height=44 inline
+```
+```aura width=110 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=pytorch" text="PyTorch" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=110 height=44 inline
+```
+```aura width=110 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=opencv" text="OpenCV" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=130 height=44 inline
+```
+```aura width=130 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=scikitlearn" text="Scikit-Learn" backgroundColor="#000000" width={130} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
+```
 
 <br>
 <h4 align="center">Cloud, Infra & Databases</h4>
 
-\`\`\`aura width=100 height=44 inline align=center
+```aura width=100 height=44 inline align=center
 <SocialMediaButton icon="https://skillicons.dev/icons?i=docker" text="Docker" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=90 height=44 inline
+```
+```aura width=90 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=gcp" text="GCP" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=130 height=44 inline
+```
+```aura width=130 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=kubernetes" text="Kubernetes" backgroundColor="#000000" width={130} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=100 height=44 inline
+```
+```aura width=100 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=mysql" text="MySQL" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=110 height=44 inline
+```
+```aura width=110 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=postgres" text="Postgres" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=110 height=44 inline
+```
+```aura width=110 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=mongodb" text="MongoDB" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
+```
 
 <br>
 <h4 align="center">Tooling</h4>
 
-\`\`\`aura width=80 height=44 inline align=center
+```aura width=80 height=44 inline align=center
 <SocialMediaButton icon="https://skillicons.dev/icons?i=git" text="Git" backgroundColor="#000000" width={80} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=100 height=44 inline
+```
+```aura width=100 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=github" text="GitHub" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=110 height=44 inline
+```
+```aura width=110 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=githubactions" text="Actions" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=90 height=44 inline
+```
+```aura width=90 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=linux" text="Linux" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
-\`\`\`aura width=110 height=44 inline
+```
+```aura width=110 height=44 inline
 <SocialMediaButton icon="https://skillicons.dev/icons?i=vscode" text="VS Code" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
-\`\`\`
+```
 
 ---
 
-\`\`\`aura width=860 height=80
+```aura width=860 height=80
+<div style={{ width: '100%', height: '100%', background: '#08080c', display: 'flex', alignItems: 'center', justifyContent: 'center', position: 'relative', overflow: 'hidden', borderRadius: 12, border: '1px solid rgba(110,80,220,0.2)' }}>
+  <style>{` @keyframes pulse-text4 { 0%, 100% { text-shadow: 0 0 10px rgba(110,240,140,0.5); } 50% { text-shadow: 0 0 25px rgba(160,255,180,0.9); } } #title4 { animation: pulse-text4 3s infinite; } `}</style>
+  <svg width="860" height="80" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs><radialGradient id="bg4" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="rgba(110,240,140,0.25)" /><stop offset="100%" stopColor="transparent" /></radialGradient></defs>
     <rect width="860" height="80" fill="url(#bg4)" />
   </svg>
