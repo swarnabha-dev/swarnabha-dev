@@ -50,16 +50,16 @@
 <br>
 
 ```aura width=100 height=44 link="https://github.com/swarnabha-dev" inline align=center
-<SocialMediaButton icon="https://cdn.simpleicons.org/github/ffffff" text="GitHub" backgroundColor="#141414" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/github" text="GitHub" backgroundColor="#141414" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=100 height=44 link="https://x.com/swarnabha_dev" inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/x/ffffff" text="X" backgroundColor="#141414" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/x" text="X" backgroundColor="#141414" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
 ```
 ```aura width=120 height=44 link="https://linkedin.com/in/swarnabha-halder-627692254" inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/linkedin/0A66C2" text="LinkedIn" backgroundColor="#041221" textColor="#ffffff" width={120} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#041221' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#0A66C2' }, { offset: '65%', color: '#041221' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={20} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/linkedin" text="LinkedIn" backgroundColor="#041221" textColor="#ffffff" width={120} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#041221' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#0A66C2' }, { offset: '65%', color: '#041221' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={20} />
 ```
 ```aura width=110 height=44 link="mailto:swarnabha@swarnabha.tech" inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/gmail/EA4335" text="Email" backgroundColor="#330e0b" textColor="#ffffff" width={110} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#330e0b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#EA4335' }, { offset: '65%', color: '#330e0b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={20} />
+<SocialMediaButton icon="https://cdn.simpleicons.org/gmail" text="Email" backgroundColor="#330e0b" textColor="#ffffff" width={110} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#330e0b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#EA4335' }, { offset: '65%', color: '#330e0b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={20} />
 ```
 
 <br>
