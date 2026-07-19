@@ -49,7 +49,21 @@
 
 <br>
 
-```aura width=120 height=44 link="https://linkedin.com/in/swarnabha-halder-627692254" inline align=center
+```aura width=100 height=44 link="https://github.com/swarnabha-dev" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/github"
+  text="GitHub"
+  backgroundColor="#141414"
+  textColor="#ffffff"
+  width={100}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
+  ]}
+  iconSize={22}
+/>
+```
+```aura width=120 height=44 link="https://linkedin.com/in/swarnabha-halder-627692254" inline
 <SocialMediaButton icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/linkedin-icon.png" text="Linkedin" backgroundColor="#000000" width={120} height={44} gradientStops={[{ offset: '0%', color: '#b57af9' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9d6bf0' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#c89dfb' }]} />
 ```
 ```aura width=138 height=44 link="https://x.com/swarnabha_dev" inline
@@ -169,33 +183,94 @@ My work spans **scientific computing, distributed backend systems, medical image
 </div>
 ```
 
-<div align="center">
 <br>
+<h4 align="center">Languages</h4>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,bash&theme=dark" alt="Languages" />
-
-<br>
-
-### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&theme=dark" alt="Backend" />
-
-<br>
-
-### AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&theme=dark" alt="AI Stack" />
-
-<br>
-
-### Cloud, Infra & Databases
-<img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,mysql,postgres,mongodb&theme=dark" alt="Infra" />
+```aura width=100 height=44 inline align=center
+<SocialMediaButton icon="https://cdn.simpleicons.org/python" text="Python" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
+```
+```aura width=90 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/openjdk" text="Java" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
+```
+```aura width=90 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/cplusplus" text="C++" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
+```
+```aura width=90 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/c" text="C" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
+```
+```aura width=90 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/gnubash" text="Bash" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
+```
 
 <br>
+<h4 align="center">Backend & Frameworks</h4>
 
-### Tooling
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode&theme=dark" alt="Tools" />
+```aura width=100 height=44 inline align=center
+<SocialMediaButton icon="https://cdn.simpleicons.org/fastapi" text="FastAPI" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
+```
+```aura width=100 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/flask" text="Flask" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
+```
+```aura width=100 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/django" text="Django" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
+```
+```aura width=110 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/nodedotjs" text="Node.js" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
+```
 
-</div>
+<br>
+<h4 align="center">AI & Machine Learning</h4>
+
+```aura width=130 height=44 inline align=center
+<SocialMediaButton icon="https://cdn.simpleicons.org/tensorflow" text="TensorFlow" backgroundColor="#000000" width={130} height={44} gradientStops={[{ offset: '0%', color: '#b57af9' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9d6bf0' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#c89dfb' }]} />
+```
+```aura width=110 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/pytorch" text="PyTorch" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#b57af9' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9d6bf0' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#c89dfb' }]} />
+```
+```aura width=110 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/opencv" text="OpenCV" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#b57af9' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9d6bf0' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#c89dfb' }]} />
+```
+```aura width=130 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/scikitlearn" text="Scikit-Learn" backgroundColor="#000000" width={130} height={44} gradientStops={[{ offset: '0%', color: '#b57af9' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9d6bf0' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#c89dfb' }]} />
+```
+
+<br>
+<h4 align="center">Cloud, Infra & Databases</h4>
+
+```aura width=100 height=44 inline align=center
+<SocialMediaButton icon="https://cdn.simpleicons.org/docker" text="Docker" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
+```
+```aura width=90 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/googlecloud" text="GCP" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
+```
+```aura width=130 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/kubernetes" text="Kubernetes" backgroundColor="#000000" width={130} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
+```
+```aura width=100 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/mysql" text="MySQL" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
+```
+```aura width=120 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/postgresql" text="Postgres" backgroundColor="#000000" width={120} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
+```
+```aura width=120 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/mongodb" text="MongoDB" backgroundColor="#000000" width={120} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
+```
+
+<br>
+<h4 align="center">Tooling</h4>
+
+```aura width=90 height=44 inline align=center
+<SocialMediaButton icon="https://cdn.simpleicons.org/git" text="Git" backgroundColor="#000000" width={90} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
+```
+```aura width=100 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/github" text="GitHub" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
+```
+```aura width=100 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/linux" text="Linux" backgroundColor="#000000" width={100} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
+```
+```aura width=110 height=44 inline
+<SocialMediaButton icon="https://cdn.simpleicons.org/visualstudiocode" text="VS Code" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
+```
 
 ---
 
