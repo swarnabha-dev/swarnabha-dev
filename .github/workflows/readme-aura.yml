@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Render Aura Components
-        uses: collectioneur/readme-aura@v1
+        uses: collectioneur/readme-aura@v1.0.14
 
       - name: Commit Generated README
         uses: stefanzweifel/git-auto-commit-action@v5
