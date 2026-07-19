@@ -1,6 +1,7 @@
+```markdown
 <div align="center">
 
-width=800 height=360
+```aura width=800 height=360
 <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', background: '#08080d', borderRadius: 20, overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
   <style>{`
     @keyframes orb-a { 0%, 100% { transform: translate(0, 0); opacity: 0.6; } 50% { transform: translate(28px, -22px); opacity: 0.9; } }
@@ -71,13 +72,13 @@ width=800 height=360
   </div>
 </div>
 
+```
 
 
 
 
 
-
-width=800 height=220
+```aura width=800 height=220
 <div style={{ display: 'flex', flexDirection: 'row', gap: 16, width: '100%', height: '100%', fontFamily: 'Inter, sans-serif' }}>
   <style>{`
     @keyframes about-orb-l { 0%, 100% { transform: translate(0,0); opacity: 0.65; } 50% { transform: translate(20px,-14px); opacity: 0.9; } }
@@ -147,7 +148,9 @@ width=800 height=220
   </div>
 </div>
 
-width=800 height=200
+```
+
+```aura width=800 height=200
 <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', background: '#08080d', borderRadius: 20, overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
   <style>{`
     @keyframes stack-orb { 0%, 100% { transform: translate(0,0); opacity: 0.45; } 50% { transform: translate(18px,-14px); opacity: 0.7; } }
@@ -193,31 +196,31 @@ width=800 height=200
   </div>
 </div>
 
+```
 
 
 
 
 
-
- width=130 height=44 link="[https://linkedin.com/in/swarnabha-halder-627692254](https://linkedin.com/in/swarnabha-halder-627692254)" inline align=center
+```aura width=130 height=44 link="[https://linkedin.com/in/swarnabha-halder-627692254](https://linkedin.com/in/swarnabha-halder-627692254)" inline align=center
 <SocialMediaButton '#041528' '#0A66C2' '#555555' '#eeeeee' '#ffffff' '0%', '10%', '100%', '50%', '60%', '80%', ]} backgroundColor="#041528" color: gradientStops="{[" height="{44}" icon="[https://cdn.simpleicons.org/linkedin/0A66C2](https://cdn.simpleicons.org/linkedin/0A66C2)" offset: text="LinkedIn" width="{130}" { },/>
 
+```
 
-
- width=130 height=44 link="[https://swarnabha.tech/](https://swarnabha.tech/)" inline align=center
+```aura width=130 height=44 link="[https://swarnabha.tech/](https://swarnabha.tech/)" inline align=center
 <SocialMediaButton '#07132e' '#2563EB' '#555555' '#eeeeee' '#ffffff' '0%', '10%', '100%', '50%', '60%', '80%', ]} backgroundColor="#07132e" color: gradientStops="{[" height="{44}" icon="[https://cdn.simpleicons.org/appveyor/2563EB](https://cdn.simpleicons.org/appveyor/2563EB)" offset: text="Portfolio" width="{130}" { },/>
 
+```
 
-
- width=120 height=44 link="mailto:swarnabha@swarnabha.tech" inline align=center
+```aura width=120 height=44 link="mailto:swarnabha@swarnabha.tech" inline align=center
 <SocialMediaButton '#2b0a0a' '#555555' '#EA4335' '#eeeeee' '#ffffff' '0%', '10%', '100%', '50%', '60%', '80%', ]} backgroundColor="#2b0a0a" color: gradientStops="{[" height="{44}" icon="[https://cdn.simpleicons.org/gmail/EA4335](https://cdn.simpleicons.org/gmail/EA4335)" offset: text="Email" width="{120}" { },/>
 
+```
 
-
-width=140 height=44 link="[https://codeforces.com/profile/swarnabha_dev](https://codeforces.com/profile/swarnabha_dev)" inline align=center
+```aura width=140 height=44 link="[https://codeforces.com/profile/swarnabha_dev](https://codeforces.com/profile/swarnabha_dev)" inline align=center
 <SocialMediaButton '#061e2e' '#1F8ACB' '#555555' '#eeeeee' '#ffffff' '0%', '10%', '100%', '50%', '60%', '80%', ]} backgroundColor="#061e2e" color: gradientStops="{[" height="{44}" icon="[https://cdn.simpleicons.org/codeforces/1F8ACB](https://cdn.simpleicons.org/codeforces/1F8ACB)" offset: text="Codeforces" width="{140}" { },/>
 
-
+```
 
 
 
