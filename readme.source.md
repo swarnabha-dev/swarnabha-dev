@@ -49,28 +49,14 @@
 
 <br>
 
-```aura width=100 height=44 link="https://github.com/swarnabha-dev" inline align=center
-<SocialMediaButton
-icon="data:image/svg+xml;utf8,%3Csvg role='img' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' fill='%23ffffff'%3E%3Ctitle%3EGitHub%3C/title%3E%3Cpath d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E"
-text="GitHub"
-backgroundColor="#141414"
-textColor="#ffffff"
-width={100}
-height={44}
-gradientStops={[
-{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }
-]}
-iconSize={22}
-/>
+```aura width=120 height=44 link="https://linkedin.com/in/swarnabha-halder-627692254" inline align=center
+<SocialMediaButton icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/linkedin-icon.png" text="Linkedin" backgroundColor="#000000" width={120} height={44} gradientStops={[{ offset: '0%', color: '#b57af9' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9d6bf0' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#c89dfb' }]} />
 ```
-```aura width=100 height=44 link="https://x.com/swarnabha_dev" inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/x" text="X" backgroundColor="#141414" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#141414' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#ffffff' }, { offset: '65%', color: '#141414' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
-```aura width=120 height=44 link="https://linkedin.com/in/swarnabha-halder-627692254" inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/linkedin" text="LinkedIn" backgroundColor="#041221" textColor="#ffffff" width={120} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#041221' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#0A66C2' }, { offset: '65%', color: '#041221' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={20} />
+```aura width=138 height=44 link="https://x.com/swarnabha_dev" inline
+<SocialMediaButton icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/x-icon.svg" text="X.com" backgroundColor="#000000" width={138} height={44} gradientStops={[{ offset: '0%', color: '#818cf8' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#9298f8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#7479f5' }]} />
 ```
 ```aura width=110 height=44 link="mailto:swarnabha@swarnabha.tech" inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/gmail" text="Email" backgroundColor="#330e0b" textColor="#ffffff" width={110} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#330e0b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#EA4335' }, { offset: '65%', color: '#330e0b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={20} />
+<SocialMediaButton icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/gmail-icon.svg" text="Email" backgroundColor="#000000" width={110} height={44} gradientStops={[{ offset: '0%', color: '#d855f7' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#b557e8' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#cc6ef9' }]} />
 ```
 
 <br>
@@ -186,45 +172,29 @@ My work spans **scientific computing, distributed backend systems, medical image
 <div align="center">
 <br>
 
-```aura width=100 height=44 inline align=center
-<SocialMediaButton icon="https://cdn.simpleicons.org/python/3776AB" text="Python" backgroundColor="#0e1e2b" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#0e1e2b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#3776AB' }, { offset: '65%', color: '#0e1e2b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
-```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/c/A8B9CC" text="C" backgroundColor="#2a2e33" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#2a2e33' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#A8B9CC' }, { offset: '65%', color: '#2a2e33' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
-```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/cplusplus/00599C" text="C++" backgroundColor="#001627" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#001627' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#00599C' }, { offset: '65%', color: '#001627' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
-```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/fastapi/009688" text="FastAPI" backgroundColor="#001e1b" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#001e1b' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#009688' }, { offset: '65%', color: '#001e1b' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,bash&theme=dark" alt="Languages" />
 
 <br>
 
-```aura width=100 height=44 inline align=center
-<SocialMediaButton icon="https://cdn.simpleicons.org/django/092E20" text="Django" backgroundColor="#020c08" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#020c08' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#092E20' }, { offset: '65%', color: '#020c08' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
-```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/flask/3BABC3" text="Flask" backgroundColor="#0f2b31" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#0f2b31' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#3BABC3' }, { offset: '65%', color: '#0f2b31' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
-```aura width=110 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/mongodb/47A248" text="MongoDB" backgroundColor="#122912" textColor="#ffffff" width={110} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#122912' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#47A248' }, { offset: '65%', color: '#122912' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
-```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/mysql/4479A1" text="MySQL" backgroundColor="#111e28" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#111e28' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#4479A1' }, { offset: '65%', color: '#111e28' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&theme=dark" alt="Backend" />
 
 <br>
 
-```aura width=140 height=44 inline align=center
-<SocialMediaButton icon="https://cdn.simpleicons.org/cloudflare/F38020" text="Cloudflare" backgroundColor="#3d2008" textColor="#ffffff" width={140} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#3d2008' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#F38020' }, { offset: '65%', color: '#3d2008' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
-```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/docker/2496ED" text="Docker" backgroundColor="#071e2f" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#071e2f' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#2496ED' }, { offset: '65%', color: '#071e2f' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
-```aura width=100 height=44 inline
-<SocialMediaButton icon="https://cdn.simpleicons.org/ubuntu/E95420" text="Ubuntu" backgroundColor="#3a1508" textColor="#ffffff" width={100} height={44} gradientStops={[{ offset: '0%', color: '#ffffff' }, { offset: '15%', color: '#3a1508' }, { offset: '30%', color: '#cccccc' }, { offset: '50%', color: '#E95420' }, { offset: '65%', color: '#3a1508' }, { offset: '80%', color: '#888888' }, { offset: '100%', color: '#444444' }]} iconSize={22} />
-```
+### AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&theme=dark" alt="AI Stack" />
+
+<br>
+
+### Cloud, Infra & Databases
+<img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,mysql,postgres,mongodb&theme=dark" alt="Infra" />
+
+<br>
+
+### Tooling
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode&theme=dark" alt="Tools" />
+
 </div>
 
 ---
@@ -282,4 +252,5 @@ My work spans **scientific computing, distributed backend systems, medical image
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Programming Quote" />
 </a>
 
+<p align="center"><sub>𝗉𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 <a href="https://github.com/collectioneur/readme-aura">𝗋𝖾𝖺𝖽𝗆𝖾-𝖺𝗎𝗋𝖺</a></sub></p>
 </div>
