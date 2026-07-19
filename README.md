@@ -10,9 +10,10 @@
   </a>
 </p>
 
+
 <!-- Character Illustration Section -->
 <p align="center">
-  <img src="PLACEHOLDER_FOR_YOUR_IMAGE_URL_HERE.png" width="450" alt="Swarnabha Character Illustration" style="border-radius: 20px; box-shadow: 0px 10px 30px rgba(0,0,0,0.5);" />
+  <img alt="Swarnabha Character Illustration" src="https://github.com/user-attachments/assets/af00b81f-0143-42ab-9010-e2fa8ef0e424" width="450"  style="border-radius: 20px; box-shadow: 0px 10px 30px rgba(0,0,0,0.5);" />
 </p>
 
 <p align="center">
@@ -144,15 +145,4 @@ I am always open to collaborating on research in AI & Deep Learning, open-source
 ### ⚡ Engineering with precision. Research with depth. Build for impact.
 
 </div>
-```eof
 
-### How to Add Your Character Illustration Image
-
-To replace the `PLACEHOLDER_FOR_YOUR_IMAGE_URL_HERE.png` text with your actual `Picsart_26-07-19_11-18-17-123.png` image, follow these exact steps:
-
-1. **Upload the image to your repository:** Go to your `swarnabha-dev/swarnabha-dev` repository on GitHub. Click **Add file** > **Upload files**, select your image, and commit the changes.
-2. **Get the Raw URL:** Once uploaded, click on the image file in your GitHub repository so it opens on the screen. Right-click the actual image and select **"Copy image address"** (or click the "Raw" button and copy the URL from your browser's address bar).
-3. **Paste it into the README:** Open your README editor, find this line near the top:
-   
-```html
-   <img src="PLACEHOLDER_FOR_YOUR_IMAGE_URL_HERE.png" width="450" alt="Swarnabha Character Illustration" style="border-radius: 20px; box-shadow: 0px 10px 30px rgba(0,0,0,0.5);" />
