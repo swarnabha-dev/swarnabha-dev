@@ -1,0 +1,32 @@
+name: Render Readme Aura SVGs
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'readme.source.md'
+  schedule:
+    # Runs at 00:00 UTC every day to keep GitHub stats/animations fresh if needed
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Render Aura Components
+        uses: collectioneur/readme-aura@v1
+
+      - name: Commit Generated README
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-render aura components to README.md"
+          file_pattern: 'README.md .github/assets/aura-*.svg'
