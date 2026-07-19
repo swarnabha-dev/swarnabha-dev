@@ -91,7 +91,7 @@ My work spans **scientific computing, distributed backend systems, medical image
   </style>
 
   {/* Card 1 */}
-  <div id="card-1" className="project-card">
+  <div id="card-1" className="project-card" style={{ display: 'flex', flexDirection: 'column' }}>
     <div style={{ display: 'flex', alignItems: 'center', marginBottom: '10px' }}>
       <div style={{ fontSize: '24px', marginRight: '10px' }}>🔐</div>
       <h3 style={{ margin: 0, color: '#f5f5f5', fontSize: '18px' }}>Secure Print Analytics</h3>
@@ -106,7 +106,7 @@ My work spans **scientific computing, distributed backend systems, medical image
   </div>
 
   {/* Card 2 */}
-  <div id="card-2" className="project-card">
+  <div id="card-2" className="project-card" style={{ display: 'flex', flexDirection: 'column' }}>
     <div style={{ display: 'flex', alignItems: 'center', marginBottom: '10px' }}>
       <div style={{ fontSize: '24px', marginRight: '10px' }}>🏥</div>
       <h3 style={{ margin: 0, color: '#f5f5f5', fontSize: '18px' }}>Medical Registration</h3>
@@ -121,7 +121,7 @@ My work spans **scientific computing, distributed backend systems, medical image
   </div>
 
   {/* Card 3 */}
-  <div id="card-3" className="project-card">
+  <div id="card-3" className="project-card" style={{ display: 'flex', flexDirection: 'column' }}>
     <div style={{ display: 'flex', alignItems: 'center', marginBottom: '10px' }}>
       <div style={{ fontSize: '24px', marginRight: '10px' }}>🌍</div>
       <h3 style={{ margin: 0, color: '#f5f5f5', fontSize: '18px' }}>CosmoCompute</h3>
@@ -136,7 +136,7 @@ My work spans **scientific computing, distributed backend systems, medical image
   </div>
 
   {/* Card 4 */}
-  <div id="card-4" className="project-card">
+  <div id="card-4" className="project-card" style={{ display: 'flex', flexDirection: 'column' }}>
     <div style={{ display: 'flex', alignItems: 'center', marginBottom: '10px' }}>
       <div style={{ fontSize: '24px', marginRight: '10px' }}>👁️</div>
       <h3 style={{ margin: 0, color: '#f5f5f5', fontSize: '18px' }}>AuthVision</h3>
