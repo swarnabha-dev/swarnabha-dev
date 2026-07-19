@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/swarnabha-dev"><img src="./.github/assets/readme-aura-component-1-6908d8d1.svg" width="100" height="44" /></a><a href="https://linkedin.com/in/swarnabha-halder-627692254"><img src="./.github/assets/readme-aura-component-2-e6f7711d.svg" width="120" height="44" /></a><a href="https://x.com/swarnabha_dev"><img src="./.github/assets/readme-aura-component-3-bbaeb461.svg" width="138" height="44" /></a><a href="mailto:swarnabha@swarnabha.tech"><img src="./.github/assets/readme-aura-component-4-16737931.svg" width="110" height="44" /></a>
+<a href="https://github.com/swarnabha-dev"><img src="./.github/assets/readme-aura-component-1-5dc59c6b.svg" width="100" height="44" /></a><a href="https://linkedin.com/in/swarnabha-halder-627692254"><img src="./.github/assets/readme-aura-component-2-e6f7711d.svg" width="120" height="44" /></a><a href="https://x.com/swarnabha_dev"><img src="./.github/assets/readme-aura-component-3-bbaeb461.svg" width="138" height="44" /></a><a href="mailto:swarnabha@swarnabha.tech"><img src="./.github/assets/readme-aura-component-4-16737931.svg" width="110" height="44" /></a>
 </p>
 
 <br>
@@ -71,40 +71,40 @@ My work spans **scientific computing, distributed backend systems, medical image
 <h4 align="center">Languages</h4>
 
 <p align="center">
-<img src="./.github/assets/readme-aura-component-9-a7b8ec91.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-10-c359fdaa.svg" width="90" height="44" /><img src="./.github/assets/readme-aura-component-11-4312148e.svg" width="90" height="44" /><img src="./.github/assets/readme-aura-component-12-72265fbd.svg" width="90" height="44" /><img src="./.github/assets/readme-aura-component-13-90a2d438.svg" width="90" height="44" />
+<img src="./.github/assets/readme-aura-component-9-c9dee8db.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-10-74b8aa6a.svg" width="90" height="44" /><img src="./.github/assets/readme-aura-component-11-37e4c630.svg" width="90" height="44" /><img src="./.github/assets/readme-aura-component-12-ad1364c5.svg" width="80" height="44" /><img src="./.github/assets/readme-aura-component-13-fc03f90c.svg" width="90" height="44" />
 </p>
 
 <br>
 <h4 align="center">Backend & Frameworks</h4>
 
 <p align="center">
-<img src="./.github/assets/readme-aura-component-14-07ad6f71.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-15-f9e4f24c.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-16-5e4c10a2.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-17-a4dbdff3.svg" width="110" height="44" />
+<img src="./.github/assets/readme-aura-component-14-15c23b14.svg" width="110" height="44" /><img src="./.github/assets/readme-aura-component-15-a3c592ce.svg" width="90" height="44" /><img src="./.github/assets/readme-aura-component-16-41e263d1.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-17-5b3c3993.svg" width="110" height="44" />
 </p>
 
 <br>
 <h4 align="center">AI & Machine Learning</h4>
 
 <p align="center">
-<img src="./.github/assets/readme-aura-component-18-3d5792b0.svg" width="130" height="44" /><img src="./.github/assets/readme-aura-component-19-ae322843.svg" width="110" height="44" /><img src="./.github/assets/readme-aura-component-20-abdf8068.svg" width="110" height="44" /><img src="./.github/assets/readme-aura-component-21-4077ccea.svg" width="130" height="44" />
+<img src="./.github/assets/readme-aura-component-18-9a9d3c6d.svg" width="130" height="44" /><img src="./.github/assets/readme-aura-component-19-67ac1e29.svg" width="110" height="44" /><img src="./.github/assets/readme-aura-component-20-a667a29a.svg" width="110" height="44" /><img src="./.github/assets/readme-aura-component-21-373bfa5e.svg" width="130" height="44" />
 </p>
 
 <br>
 <h4 align="center">Cloud, Infra & Databases</h4>
 
 <p align="center">
-<img src="./.github/assets/readme-aura-component-22-cfa822df.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-23-77be1364.svg" width="90" height="44" /><img src="./.github/assets/readme-aura-component-24-e520f0e6.svg" width="130" height="44" /><img src="./.github/assets/readme-aura-component-25-da98afc2.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-26-42a6cb4f.svg" width="120" height="44" /><img src="./.github/assets/readme-aura-component-27-49ebeff0.svg" width="120" height="44" />
+<img src="./.github/assets/readme-aura-component-22-d96407b0.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-23-8a6acb2f.svg" width="90" height="44" /><img src="./.github/assets/readme-aura-component-24-3dd2b5d3.svg" width="130" height="44" /><img src="./.github/assets/readme-aura-component-25-fd0c928b.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-26-632dbee7.svg" width="110" height="44" /><img src="./.github/assets/readme-aura-component-27-4497514e.svg" width="110" height="44" />
 </p>
 
 <br>
 <h4 align="center">Tooling</h4>
 
 <p align="center">
-<img src="./.github/assets/readme-aura-component-28-23f9fc89.svg" width="90" height="44" /><img src="./.github/assets/readme-aura-component-29-cd48e79c.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-30-407b106f.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-31-e5b3b589.svg" width="110" height="44" />
+<img src="./.github/assets/readme-aura-component-28-1ac4ff92.svg" width="80" height="44" /><img src="./.github/assets/readme-aura-component-29-6f6026db.svg" width="100" height="44" /><img src="./.github/assets/readme-aura-component-30-9257edbd.svg" width="110" height="44" /><img src="./.github/assets/readme-aura-component-31-dada9aa7.svg" width="90" height="44" /><img src="./.github/assets/readme-aura-component-32-892fd7c4.svg" width="110" height="44" />
 </p>
 
 ***
 
-![readme-aura-component-32](./.github/assets/readme-aura-component-32-f4ab5190.svg "Generated by readme-aura")
+![readme-aura-component-33](./.github/assets/readme-aura-component-33-913d0c89.svg "Generated by readme-aura")
 
 * **2026** — M.Tech CS at Indian Statistical Institute (ISI)
 * **2025** — Research Internship at Indian Statistical Institute (ISI) | Planetary Material Prediction | Medical Image Registration Research
@@ -114,7 +114,7 @@ My work spans **scientific computing, distributed backend systems, medical image
 
 ***
 
-![readme-aura-component-33](./.github/assets/readme-aura-component-33-2cbff6eb.svg "Generated by readme-aura")
+![readme-aura-component-34](./.github/assets/readme-aura-component-34-2cbff6eb.svg "Generated by readme-aura")
 
 <div align="center">
 
