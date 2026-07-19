@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/swarnabha-dev"><img src="./.github/assets/readme-aura-component-1-6908d8d1.svg" width="100" height="44" /></a><a href="https://x.com/swarnabha_dev"><img src="./.github/assets/readme-aura-component-2-e08dfffe.svg" width="100" height="44" /></a><a href="https://linkedin.com/in/swarnabha-halder-627692254"><img src="./.github/assets/readme-aura-component-3-a8cfb199.svg" width="120" height="44" /></a><a href="mailto:swarnabha@swarnabha.tech"><img src="./.github/assets/readme-aura-component-4-e1c61317.svg" width="110" height="44" /></a>
+<a href="https://github.com/swarnabha-dev"><img src="./.github/assets/readme-aura-component-1-769c9c79.svg" width="100" height="44" /></a><a href="https://x.com/swarnabha_dev"><img src="./.github/assets/readme-aura-component-2-e08dfffe.svg" width="100" height="44" /></a><a href="https://linkedin.com/in/swarnabha-halder-627692254"><img src="./.github/assets/readme-aura-component-3-a8cfb199.svg" width="120" height="44" /></a><a href="mailto:swarnabha@swarnabha.tech"><img src="./.github/assets/readme-aura-component-4-e1c61317.svg" width="110" height="44" /></a>
 </p>
 
 <br>
