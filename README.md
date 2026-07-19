@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/swarnabha-dev"><img src="./.github/assets/readme-aura-component-1-769c9c79.svg" width="100" height="44" /></a><a href="https://x.com/swarnabha_dev"><img src="./.github/assets/readme-aura-component-2-e08dfffe.svg" width="100" height="44" /></a><a href="https://linkedin.com/in/swarnabha-halder-627692254"><img src="./.github/assets/readme-aura-component-3-a8cfb199.svg" width="120" height="44" /></a><a href="mailto:swarnabha@swarnabha.tech"><img src="./.github/assets/readme-aura-component-4-e1c61317.svg" width="110" height="44" /></a>
+<a href="https://github.com/swarnabha-dev"><img src="./.github/assets/readme-aura-component-1-5dc59c6b.svg" width="100" height="44" /></a><a href="https://x.com/swarnabha_dev"><img src="./.github/assets/readme-aura-component-2-e08dfffe.svg" width="100" height="44" /></a><a href="https://linkedin.com/in/swarnabha-halder-627692254"><img src="./.github/assets/readme-aura-component-3-a8cfb199.svg" width="120" height="44" /></a><a href="mailto:swarnabha@swarnabha.tech"><img src="./.github/assets/readme-aura-component-4-e1c61317.svg" width="110" height="44" /></a>
 </p>
 
 <br>
@@ -126,5 +126,4 @@ My work spans **scientific computing, distributed backend systems, medical image
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Programming Quote" />
 </a>
 
-<p align="center"><sub>𝗉𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 <a href="https://github.com/collectioneur/readme-aura">𝗋𝖾𝖺𝖽𝗆𝖾-𝖺𝗎𝗋𝖺</a></sub></p>
 </div>
