@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=20&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Medical%20Image%20Registration;Secure%20FastAPI%20Analytics;Planetary%20Material%20Prediction;Financial%20Market%20Modeling;Production-grade%20AI%20Systems" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br>
 
   <img alt="Swarnabha Character Illustration" src="https://github.com/user-attachments/assets/af00b81f-0143-42ab-9010-e2fa8ef0e424" width="450"  style="border-radius: 20px; box-shadow: 0px 10px 30px rgba(0,0,0,0.5);" />
 
