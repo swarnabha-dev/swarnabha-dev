@@ -131,6 +131,15 @@ My work spans **scientific computing, distributed backend systems, medical image
 </a>
 <br><br>
 
+
+<a href="https://holopin.io/@swarnabhadev">
+  <img src="https://holopin.me/swarnabhadev" alt="Holopin Badges" />
+</a>
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 **[Explore My Portfolio](https://swarnabha.tech/) • [Connect on LinkedIn](https://linkedin.com/in/swarnabha-halder-627692254)**
