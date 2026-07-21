@@ -79,7 +79,7 @@
 <br>
 
 <div>
-  <img align="right" width="360" src="https://github.com/user-attachments/assets/af00b81f-0143-42ab-9010-e2fa8ef0e424" style="border-radius: 20px; margin-left: 25px; margin-bottom: 20px; box-shadow: 0px 10px 30px rgba(110,80,220,0.25);" alt="Swarnabha Character Illustration" />
+  <img align="right" width="360" src="https://github.com/user-attachments/assets/af00b81f-0143-42ab-9010-e2fa8ef0e424" style="border-radius: 20px; margin-left: 25px; margin-bottom: 20px; box-shadow: 0px 0px 45px rgba(110,80,220,0.5), 0px 20px 30px rgba(0,0,0,0.6); border: 1px solid rgba(110,80,220,0.3);" alt="Swarnabha Character Illustration" />
   
   <p style="font-size: 16px;">
     My work spans <b>scientific computing, distributed backend systems, medical image analysis, and modern AI infrastructure</b>. I enjoy turning complex research prototypes into reliable, secure, and maintainable products.
@@ -94,7 +94,6 @@
 </div>
 
 <br clear="all" />
-
 <br>
 
 ```aura width=860 height=80
@@ -110,49 +109,44 @@
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="15%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20With%20Key.png" width="65" alt="PrintFlow Logo" />
-    </td>
-    <td width="85%">
-      <strong>PrintFlow: Secure Print Analytics and Management Platform</strong><br/>
-      <em>Stack: FastAPI, MySQL, Windows Event Logs</em><br/>
-      Implemented mTLS authentication and secure JWT authorization pipelines. Designed a high-performance asynchronous backend capable of scaling enterprise print telemetry data.
-    </td>
-  </tr>
-  <tr>
-    <td width="15%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hospital.png" width="65" alt="Medical Image Logo" />
-    </td>
-    <td width="85%">
-      <strong>Medical Image Registration</strong><br/>
-      <em>Stack: OpenCV, Python, Scientific Computing Libraries</em><br/>
-      Engineered B-Spline and Demons registration models. Applied research to 3D reconstruction and histopathology to improve automated diagnostic accuracy.
-    </td>
-  </tr>
-  <tr>
-    <td width="15%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="65" alt="Planet Logo" />
-    </td>
-    <td width="85%">
-      <strong>CosmoCompute: Planetary Material Predictor</strong><br/>
-      <em>Stack: PyTorch, Interactive Dashboards, Data Engineering</em><br/>
-      Processed and analyzed massive NASA datasets to build robust machine learning models for geological material prediction. 
-    </td>
-  </tr>
-  <tr>
-    <td width="15%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Body%20parts/Eye.png" width="65" alt="Vision Logo" />
-    </td>
-    <td width="85%">
-      <strong>AuthVision</strong><br/>
-      <em>Stack: TensorFlow, YOLO, FastAPI, Docker, JWT</em><br/>
-      Designed an end-to-end computer vision pipeline with integrated anti-spoofing mechanisms, containerized for rapid, scalable production deployment.
-    </td>
-  </tr>
-</table>
+<div>
+  <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20With%20Key.png" width="75" style="margin-right: 25px; margin-bottom: 10px;" alt="PrintFlow Logo" />
+  <h3 style="margin-top: 0; margin-bottom: 5px;">PrintFlow: Secure Print Analytics and Management</h3>
+  <p style="margin-top: 0;"><em>Stack: FastAPI, MySQL, Windows Event Logs</em><br/>
+  Implemented mTLS authentication and secure JWT authorization pipelines. Designed a high-performance asynchronous backend capable of scaling enterprise print telemetry data.</p>
+</div>
 
+<br clear="all" />
+<br>
+
+<div>
+  <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hospital.png" width="75" style="margin-right: 25px; margin-bottom: 10px;" alt="Medical Image Logo" />
+  <h3 style="margin-top: 0; margin-bottom: 5px;">Medical Image Registration</h3>
+  <p style="margin-top: 0;"><em>Stack: OpenCV, Python, Scientific Computing Libraries</em><br/>
+  Engineered B-Spline and Demons registration models. Applied research to 3D reconstruction and histopathology to improve automated diagnostic accuracy.</p>
+</div>
+
+<br clear="all" />
+<br>
+
+<div>
+  <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="75" style="margin-right: 25px; margin-bottom: 10px;" alt="Planet Logo" />
+  <h3 style="margin-top: 0; margin-bottom: 5px;">CosmoCompute: Planetary Material Predictor</h3>
+  <p style="margin-top: 0;"><em>Stack: PyTorch, Interactive Dashboards, Data Engineering</em><br/>
+  Processed and analyzed massive NASA datasets to build robust machine learning models for geological material prediction.</p>
+</div>
+
+<br clear="all" />
+<br>
+
+<div>
+  <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Body%20parts/Eye.png" width="75" style="margin-right: 25px; margin-bottom: 10px;" alt="Vision Logo" />
+  <h3 style="margin-top: 0; margin-bottom: 5px;">AuthVision: AI Attendance & Anti-Spoofing</h3>
+  <p style="margin-top: 0;"><em>Stack: TensorFlow, YOLO, FastAPI, Docker, JWT</em><br/>
+  Designed an end-to-end computer vision pipeline with integrated anti-spoofing mechanisms, containerized for rapid, scalable production deployment.</p>
+</div>
+
+<br clear="all" />
 <br>
 
 ```aura width=860 height=80
