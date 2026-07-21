@@ -78,20 +78,22 @@
 
 <br>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="65%" valign="top">
-      My work spans <b>scientific computing, distributed backend systems, medical image analysis, and modern AI infrastructure</b>. I enjoy turning complex research prototypes into reliable, secure, and maintainable products.<br><br>
-      🎓 <b>Education:</b> M.Tech in Computer Science, Indian Statistical Institute (ISI) | B.Tech in CSE<br><br>
-      🎯 <b>Current Focus:</b> Building highly available, asynchronous API architectures and enterprise-grade AI deployments.<br><br>
-      🌱 <b>Currently Exploring:</b> Agentic AI, Multi-Agent Systems, RAG Pipelines, and Vector Databases.<br><br>
-      💼 <b>Open To:</b> Roles in AI Engineering, Backend Architecture, and Applied Research.
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img alt="Swarnabha Character Illustration" src="https://github.com/user-attachments/assets/af00b81f-0143-42ab-9010-e2fa8ef0e424" width="220" style="border-radius: 20px; box-shadow: 0px 10px 30px rgba(110,80,220,0.25);" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img align="right" width="360" src="https://github.com/user-attachments/assets/af00b81f-0143-42ab-9010-e2fa8ef0e424" style="border-radius: 20px; margin-left: 25px; margin-bottom: 20px; box-shadow: 0px 10px 30px rgba(110,80,220,0.25);" alt="Swarnabha Character Illustration" />
+  
+  <p style="font-size: 16px;">
+    My work spans <b>scientific computing, distributed backend systems, medical image analysis, and modern AI infrastructure</b>. I enjoy turning complex research prototypes into reliable, secure, and maintainable products.
+  </p>
+  
+  <br>
+  
+  <p>🎓 <b>Education:</b> M.Tech in Computer Science, Indian Statistical Institute (ISI) | B.Tech in CSE</p>
+  <p>🎯 <b>Current Focus:</b> Building highly available, asynchronous API architectures and enterprise-grade AI deployments.</p>
+  <p>🌱 <b>Currently Exploring:</b> Agentic AI, Multi-Agent Systems, RAG Pipelines, and Vector Databases.</p>
+  <p>💼 <b>Open To:</b> Roles in AI Engineering, Backend Architecture, and Applied Research.</p>
+</div>
+
+<br clear="all" />
 
 <br>
 
@@ -271,11 +273,49 @@
 
 <br>
 
-- **2026** — M.Tech CS at Indian Statistical Institute (ISI) 
-- **2025** — Research Internship at Indian Statistical Institute (ISI) | Planetary Material Prediction | Medical Image Registration Research
-- **2024** — Backend Engineering at TechnoHacks & CodeSoft
-- **2023** — Active Open Source Contributions (Hacktoberfest '23 & '24)
-- **2022** — Began Open Source Journey & Competitive Programming
+```aura width=860 height=360
+(function() {
+  return (
+    <div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', padding: '40px 0', background: '#08080c', borderRadius: 16, border: '1px solid rgba(110,80,220,0.18)', fontFamily: 'Inter', overflow: 'hidden' }}>
+
+      <svg width="860" height="360" style={{ position: 'absolute', top: 0, left: 0 }}>
+        <defs>
+          <radialGradient id="tl-glow" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stopColor="rgba(110,40,240,0.12)" />
+            <stop offset="100%" stopColor="transparent" />
+          </radialGradient>
+        </defs>
+        <ellipse cx="430" cy="180" rx="400" ry="200" fill="url(#tl-glow)" />
+      </svg>
+
+      <div style={{ position: 'absolute', left: 160, top: 50, bottom: 50, width: 2, background: 'linear-gradient(to bottom, #a78bfa, #3b82f6, #0ea5e9)' }}></div>
+
+      <div style={{ display: 'flex', flexDirection: 'column', width: '100%', justifyContent: 'space-between', zIndex: 10 }}>
+        {[
+           { year: '2026', text: 'M.Tech CS at Indian Statistical Institute (ISI)', color: '#a78bfa' },
+           { year: '2025', text: 'Research Internship (ISI) | Medical Image & Planetary Materials', color: '#8b5cf6' },
+           { year: '2024', text: 'Backend Engineering at TechnoHacks & CodeSoft', color: '#6366f1' },
+           { year: '2023', text: 'Active Open Source Contributions (Hacktoberfest)', color: '#3b82f6' },
+           { year: '2022', text: 'Began Open Source Journey & Competitive Programming', color: '#0ea5e9' }
+        ].map(function(item, i) {
+          return (
+            <div key={i} style={{ display: 'flex', alignItems: 'center', height: 30 }}>
+               <div style={{ display: 'flex', width: 160, paddingRight: 25, justifyContent: 'flex-end', fontSize: 22, fontWeight: 800, color: item.color, letterSpacing: '1px' }}>
+                 {item.year}
+               </div>
+               <div style={{ display: 'flex', width: 45, height: 2, background: item.color, opacity: i === 0 ? 1 : 0.5 }}></div>
+               <div style={{ display: 'flex', width: 16, height: 16, borderRadius: 8, border: '3px solid ' + item.color, background: i === 0 ? item.color : '#08080c', marginLeft: -8, boxShadow: i === 0 ? '0 0 15px ' + item.color : 'none' }}></div>
+               <div style={{ display: 'flex', fontSize: 17, fontWeight: 500, color: i === 0 ? '#ffffff' : '#cbd5e1', marginLeft: 20, letterSpacing: '0.3px' }}>
+                 {item.text}
+               </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+})()
+```
 
 <br>
 
