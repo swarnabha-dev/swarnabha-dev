@@ -331,9 +331,9 @@
 <a href="https://github.com/stats-organization/github-stats-extended">
   <img src="https://github-stats-extended.vercel.app/api?username=swarnabha-dev&theme=tokyonight" alt="Swarnabha's GitHub stats" height="180" />
 </a>
-<br>
+<!-- <br>
 <img src="https://streak-stats.demolab.com/?user=swarnabha-dev&theme=tokyonight&hide_border=true&title_color=7AA2F7&ring=7AA2F7&fire=7AA2F7" height="180" alt="GitHub Streak" />
-<br>
+<br> -->
 <img src="https://github-trophies.vercel.app/?username=swarnabha-dev&theme=tokyonight&no-bg=true&row=1&margin-w=15" alt="GitHub Trophies" />
 <br><br>
 
@@ -357,5 +357,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Programming Quote" />
 </a>
 
-<p align="center"><sub>𝗉𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 <a href="https://github.com/collectioneur/readme-aura">𝗋𝖾𝖺𝖽𝗆𝖾-𝖺𝗎𝗋𝖺</a></sub></p>
 </div>
